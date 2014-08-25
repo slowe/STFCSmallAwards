@@ -12,7 +12,7 @@ $j = 0; # The number of regions
 
 $json = "{\n";
 $json_awards = "\t\"awards\": [\n";
-$json_regions = "\t\"regions\": [\n";
+$json_regions = "\t\"regions\": {\n";
 
 foreach $line (@lines){
 
@@ -57,7 +57,7 @@ foreach $line (@lines){
 			if($j > 1){
 				$json_regions .= ",\n";
 			}
-			$json_regions .= "\t\t{ \"region\": \"$r\", \"population\": $pop }";
+			$json_regions .= "\t\t\"$r\": $pop";
 		}	
 	}
 
@@ -81,7 +81,7 @@ foreach $line (@lines){
 	}
 }
 $json_awards .= "\n\t]";
-$json_regions .= "\n\t]";
+$json_regions .= "\n\t}";
 $json .= $json_regions.",\n".$json_awards;
 $json .= "\n}";
 

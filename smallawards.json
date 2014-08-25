@@ -1,17 +1,17 @@
 {
-	"regions": [
-		{ "region": "North West", "population": 7052000 },
-		{ "region": "North East", "population": 2597000 },
-		{ "region": "South West", "population": 5289000 },
-		{ "region": "South East", "population": 8635000 },
-		{ "region": "East Midlands", "population": 4533000 },
-		{ "region": "West Midlands", "population": 5602000 },
-		{ "region": "East of England", "population": 5847000 },
-		{ "region": "London", "population": 8204100 },
-		{ "region": "Yorkshire and the Humber", "population": 5284000 },
-		{ "region": "Wales", "population": 3063456 },
-		{ "region": "Scotland", "population": 5327700 }
-	],
+	"regions": {
+		"North West": 7052000,
+		"North East": 2597000,
+		"South West": 5289000,
+		"South East": 8635000,
+		"East Midlands": 4533000,
+		"West Midlands": 5602000,
+		"East of England": 5847000,
+		"London": 8204100,
+		"Yorkshire and the Humber": 5284000,
+		"Wales": 3063456,
+		"Scotland": 5327700
+	},
 	"awards": [
 		{ "year": 2014, "round": "2014A", "amount": 3000, "title": "CHaOS Summer Roadshow 2014", "org": "Cambridge Hands On Science (CHaOS)", "location": "Cambridge", "region": "East of England", "source": "http://www.stfc.ac.uk/files/1838/1838_res_1.pdf" },
 		{ "year": 2014, "round": "2014A", "amount": 5000, "title": "Classroom Hangouts with Spacelink Experts: to extend and develop outreach and communication between the space science and the education communities", "org": "Spacelink Learning Foundation", "location": "Guilford", "region": "South East", "source": "http://www.stfc.ac.uk/files/1838/1838_res_1.pdf" },
