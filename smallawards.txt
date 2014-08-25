@@ -59,6 +59,28 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2000B	2000	PARTICLE PHYSICS LECTURES	Queen Mary & Westfield College	London	London
+2000B	1200	MULTI MEDIA PRESENTATIONS AND SELF-LEARNING PACKAGES	 University of Plymouth	Plymouth	South West
+2000B	900	PEP EXHIBITION AT EDINBURGH SCIENCE FESTIVAL	Edinburgh University	Edinburgh	Scotland
+2000B	4000	SCALE MODEL OF THE SOLAR SYSTEM	Sevenoaks	South East
+2000B	7500	BIOMEDICAL TECHNOLOGY SPIN OFF FROM THE LHC	University of Glasgow	Glasgow	Scotland
+2000B	5000	THE VIRTUAL METEORITE EXHIBITION	Natural History Museum	London	London
+2000B	500	LIFT OFF ROCKET GUIDE FOR ASE CONFERENCE	University of Surrey	Guilford	South East
+2000B	2950	DIGITAL IMAGING EQUIPMENT PURCHASE	Norwich Astronomical Society	Norwich	East of England
+2000B	5000	BIRMINGHAM SCHOOLS' WEBSITE, PHASE TWO	University of Birmingham	Birmingham	West Midlands
+2000B	4000	THE CARDIFF RADIO OBSERVATORY	University of Wales	Cardiff	Wales
+2000B	360	Space		Liverpool	North West
+2000B	2200	A BRIEF HISTORY OF TIME	CCA @ McLellan Galleries	Glasgow	Scotland
+2000B	5000	CONNECTIONS IN SPACE: FROM THE QUANTUM TO THE COSMOS	DAMTP	Cambridge	East of England
+2000B	1410	WOMEN IN ASTRONOMY AND GEOPHYSICS BROCHURE	CCLRC	Didcot	South East
+2000B	2800	GCSE ASTRONOMY GUIDE		Lytham St Annes	North West
+2000B	2000	GENERATION MARS' EDUCATIONAL YOUTH COMPETITION		West Kirby	North West
+2000B	4000	MOON PHASES, A PILOT PROJECT	University College London	London	London
+2000B	400	INDUSTRY WEEK PROJECT - SPACE SCIENCE	Ladymead Community School	Taunton	South West
+2000B	5000	NEW DOME FOR SCHOOLS' PLANETARIUM	Mizar Astronomy	Dorset	South West
+2000B	600	HEAVENS ABOVE	Erasmus Darwin Foundation	Lichfield	West Midlands
+2000B	6092	SCHOOLS POP-BOTTLE MAGNETOMETER NETWORK (POP-MAGNET)	University of York	York	Yorkshire and the Humber
+
 
 2000A	500	STIMULATING AN INTEREST IN ASTRONOMY	Swinton Comprehensive School	Rotherham	Yorkshire and the Humber
 2000A	600	COMSET CONTINUATION (SPACE)	University of Sunderland	Sunderland	North East
