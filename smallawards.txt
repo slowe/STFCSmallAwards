@@ -1,0 +1,88 @@
+Sources
+2014A	http://www.stfc.ac.uk/files/1838/1838_res_1.pdf
+2013B	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013B.pdf
+2013A	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013A.pdf
+1999-2012	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+
+
+Round	Amount	Title	Organization	Location	Region
+2014A	3000	CHaOS Summer Roadshow 2014	Cambridge Hands On Science (CHaOS)	Cambridge	East of England
+2014A	5000	Classroom Hangouts with Spacelink Experts: to extend and develop outreach and communication between the space science and the education communities	Spacelink Learning Foundation	Guilford	South East
+2014A	8996	Lego Rovers Evolution	University of Liverpool	Liverpool	North West
+2014A	9922	The Enlightenment Cafe: New Atlantis - Multidisciplinary theatre exploring the technology behind satellites and science of measuring Climate Change	LAStheatre C.I.C	London	London
+2014A	9250	Curved words: stories of space, time and light	Freight Design (Scotland) Ltd	Glasgow	Scotland
+2014A	9581	Catch a Shooting Star	Open University	Manchester	North West
+2014A	1630	Microscopy Summer School for GCSE Students	University of Glasgow	Glasgow	Scotland
+2014A	5520	Unlimited Space Agency - Research & Development	Unlimited Theatre	Leeds	Yorkshire and the Humber
+2014A	6292	Crystals within crystals: The story of sea ice	Bangor University	Bangor	Wales
+2014A	9150	Oculus Rift Planetarium	University of Edinburgh	Edinburgh	Scotland
+2014A	1852	Astronomy in The City	University of Birmingham	Birmingham	West Midlands
+2014A	9968	Printing the Moon	University of Dundee	Dundee	Scotland
+2014A	10000	CERN LIVE event at the Gravity Fields Festival	South Kesteven District Council	Grantham	East Midlands
+2014A	5000	Building self - esteem with regard to learning in science (physics) within a special school and for underachievers in a mainstream setting	Alfriston School	Beaconsfield	South East
+
+2013B	9500	The Mighty Sky UK	University of Glamorgan	Glamorgan	Wales
+2013B	9954	MARSBalloon National Pilot	Systems Engineering and Assessment Ltd	Beckington	South West
+2013B	9114	Nature Beyond the Skies	Bristol Natural History Consortium	Bristol	South West
+2013B	9974	Astrocampus - An Outreach Facility for Engagement with Schools and the General Public	University of York	York	Yorkshire and the Humber
+2013B	5576		University of Manchester	Manchester	North West
+2013B	10000	Cosmology Exhibition at the National Eisteddfod of Wales 2014	National Eisteddfod of Wales	Llanelli	Wales
+2013B	5160	Space 2014 - A Conference of astronomical proportions!	Balshaws High School	Leyland	North West
+2013B	8535	UKCA - NASA Astrobiology Summer Academy 2014	University of Edinburgh	Edinburgh	Scotland
+2013B	4230	Detecting cosmic rays with a spark chamber; connecting with particle physics and astronomy	University of Birmingham	Birmingham	West Midlands
+2013B	8318	Higgs Boson Decays in the Lancaster Particle Physics Package	University of Lancaster	Lancaster	North West
+2013B	9628	Writer in Residence at the Mullard Space Science Laboratory (MSSL)	University College London	Dorking	South East
+2013B	10000	The story of Philae: engaging the public throughout 2014 with the Rosetta cometary mission and the Philae lander at the UK site of the Philae obelisk	Open University	Kingston Lacy	South West
+
+2013A	6350	The transparent observatory: opening the James Gregory Telescope to the public	University of St Andrews	St Andrews	Scotland
+2013A	2625	Another Way of Seeing - Contemporary Art responds to Planetary Science	University College London	London	London
+2013A	9987	Three Minute Learning - an online story library and interactive resource that uses proven pedagogies to improve understanding of STFC research	University of Glasgow	Glasgow	Scotland
+2013A	9996	Lights in the Sky "Planetarium Show"	Techniquest	Cardiff	Wales
+2013A	8182	Sound Science	now>press>play	London	London
+2013A	9800	Multi Media Space	The Ideas Foundation	Manchester	North West
+2013A	2300	Langton Robotic Telescope providing wide access to a 16 inch Schmidt Cassegrain telescope via the web for schools and the public.	Langton Star Centre	Canterbury	South East
+2013A	2000	Radiation, radioactivity and your local environment	University of Glasgow	Glasgow	Scotland
+2013A	9660	Republic of the Moon	The Arts Catalyst	London	London
+2013A	4000	Seeing the Sun in a new light	Keele University	Newcastle-under-Lyme	West Midlands
+2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
+2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
+
+
+2000A	500	STIMULATING AN INTEREST IN ASTRONOMY	Swinton Comprehensive School	Rotherham	Yorkshire and the Humber
+2000A	600	COMSET CONTINUATION (SPACE)	University of Sunderland	Sunderland	North East
+2000A	3500	SEEING STARS II - ASTRONOMY & SPACE SCIENCE FOR THE VISUALLY IMPAIRED	Leicester University	Leicester	East Midlands
+2000A	7500	COSMOLOGY MEETS COMEDY	University of Glasgow	Glasgow	Scotland
+2000A	4450	FULWOOD EXTENSIVE AIR SHOWER ARRAY PROJECT	Preston College	Preston	North West
+2000A	500	12th ANNUAL UKSEDS SPACE CONFERENCE	Manchester University	Manchester	North West
+2000A	600	CIFEST - EDUCATIONAL SCIENCE FAIR	Robert Manning Technology College	Bourne	East Midlands
+2000A	5000	BRINGING THE ORACLE OF DELPHI TO THE UK	Geneva	International
+2000A	8000	ACCESSING THE LOVELL RADIO TELESCOPE	Jodrell Bank Science Centre	Macclesfield	North West
+2000A	2500	CORNWALL SCHOOLS ASTRONOMY PROJECT - GCSE ASTRONOMY	Treviglas Community College	Newquay	South West
+2000A	2000	COMMUNICATING ROCKET SCIENCE	University of Salford	Salford	North West
+2000A	4800	NASA JOHNSON SPACE CENTER PROJECT - 2000	The Education Business Partnership	Llandysul	Wales
+2000A	3000	VIRTUAL RADIOACTIVITY LABORATORY FOR SECONDARY EDUCATION	University of Nottingham	Nottingham	East Midlands
+2000A	4000	HERSTMONCEUX ASTROGRAPHIC DISCOVER	Inspire	Norwich	East of England
+2000A	5000	MUSIC OF THE SPHERES	University of Bath	Bath	South West
+2000A	2032	SPACE SCIENCE: CONTINUITY AND PROGRESSION	Mr J Moreland	Twickenham	London
+2000A	1500	NATIONAL SIXTH FORM 'FRONTIERS OF SCIENCE' CONFERENCE	The Kings School	Canterbury	South East
+2000A	4500	SUPPORT FOR ASTRONOMY ROADSHOW	University of St Andrews	St Andrews	Scotland
+
+
+1999B	2600	THE MAGIC OF THE COSMOS	University of Glasgow	Glasgow	Scotland
+1999B	5000	PROJECTS FOR THE MILLENNIUM 'FROM QUARKS TO THE COSMOS EXHIBITION'	The University of Birmingham	Birmingham	West Midlands
+1999B	3459	MEASURING THE MUON LIFETIME	Royal Holloway and Bedford New College	Egham	South East
+1999B	3000	LIVERPOOL CHILDREN’S ASTRONOMY WEBSITE	The Alsop High School	Liverpool	North West
+1999B	4000	YOUR PLACE IN SPACE	Armagh Planetarium	Armagh	Northern Ireland
+1999B	4971	UPGRADE OF 28-INCH TELESCOPE	Royal Observatory Greenwich	London	London
+1999B	5150	BABAR MAGIC CUBES	Bristol University	Bristol	South West
+1999B	300	SCIENCE IN OUR COMMUNITY	St Francis Primary School	Glasgow	Scotland
+1999B	5000	CONCISE Project	Manchester Metropolitan University	Manchester	North West
+1999B	9650	BEAGLE 2 AND YOU	 The Open University	Milton Keynes	South East
+1999B	6237	Over the Moon	Physico Theatre	Rossendale	North West
+1999B	5000	THE REMOTE CHALLENGER LEARNING CENTRE		National Space Science Centre	Leicester	East Midlands
+1999B	750	LIFTOFF! THE STUDENT PAYLOAD COMPETITION	 University of Surrey	Guilford	South East
+1999B	3000	ICE COLONY ALPHA - AUDIO MATHS PROJECT "SPACEBOX"	National Association of the Education of Sick Children	London	London
+1999B	540	EUREKA 2000	Arnold Schools Limited	Preston	North West
+1999B	5500	VIDEO OF THE ATLAS EXPERIMENT	The University of Birmingham	Birmingham	West Midlands
+
+
