@@ -4,6 +4,18 @@ Sources
 2013A	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013A.pdf
 1999-2012	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
 
+Regions
+North West	7052000
+North East	2597000
+South West	5289000
+South East	8635000
+East Midlands	4533000
+West Midlands	5602000
+East of England	5847000
+London	8204100
+Yorkshire and the Humber	5284000
+Wales	3063456
+Scotland	5327700
 
 Round	Amount	Title	Organization	Location	Region
 2014A	3000	CHaOS Summer Roadshow 2014	Cambridge Hands On Science (CHaOS)	Cambridge	East of England
