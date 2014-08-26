@@ -60,6 +60,22 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2006A	8448	SNOWDON SUMMIT COSMIC RAY DATA DISPLAY	Rutherford Appleton Laboratory	Didcot	South East
+2006A	3000	SUMMER SPACE CAMP	Burnham Grammar School	Slough	South East
+2006A	3500	GAMMA RAY ASTRONOMY AT THE ROYAL SOCIETY EXHIBITION IN GLASGOW	University of Durham	Durham	North East
+2006A	12000	LOST IN SPACE	Victoria & Albert Museum of Childhood	Bethnal Green	London
+2006A	7196	ROCKS FROM SPACE	Open University	Milton Keynes	South East
+2006A	1100	DEVELOPMENT OF ARTS-SCIENCE WORKSHOP AT THE INSTITUTE OF ASTRONOMY	University of Cambridge	Cambridge	East of England
+2006A	5700	SPACE WATCH	Herefordshire Children & Young People's Directorate	Hereford	West Midlands
+2006A	6000	COMMUNICATING ASTRONOMY WITH TELESCOPES OUTREACH IN OXFORDSHIRE AND WILTSHIRE	University of Oxford	Oxford	South East
+2006A	6900	LHC OUTREACH CASCADING INTO SCHOOLS	University of Birmingham	Birmingham	West Midlands
+2006A	1500	PARTICLE PHYSICS IN THE UNIVERSE TODAY (PUTT)	University of Edinburgh	Edinburgh	Scotland
+2006A	10000	LOCAL COMMUNITY YOUTH SPACE ACTIVITY DAYS & EVENINGS	Mullard Space Science Laboratory	Dorking	South East
+2006A	12120	OUR PLACE IN AN UNSEEN UNIVERSE	The Royal National College for the Blind	Hereford	West Midlands
+2006A	7800	CHASING THE STARS	CSV Norfolk Action Desk	Norwich	East of England
+2006A	10000	INTERNATIONAL HELIOPHYSICAL YEAR SCHOOLS PROGRAMME	Mullard Space Science Laboratory	London	London
+2006A	14830	SPACE 3D EXPLORER TRAVELLING SHOW AND DISCOVERY WORKSHOPS	Digital Learning Foundation Educational Charity	West Kilbride	Scotland
+
 2005B	1500	ACLE HIGH SCHOOL SPACE DAY	Acle High School	Norwich	East of England
 2005B	558	PROMOTING UNDERSTANDING OF SCIENCE	Oldbury on Severn CE Primary School	Oldbury	South West
 2005B	5600	ASTRONOMY IN THE CLASSROOM: SCHOOL AND OBSERVATORY VISITS FOR KS2, KS3, KS4 AND A-LEVEL	University College London	London	London
