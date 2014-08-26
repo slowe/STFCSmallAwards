@@ -86,6 +86,20 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2008B	14660	Science at music festivals (Guerrilla Space Camp)	University of Cambridge	Cambridge	East of England
+2008B	430	Particle Physics masterclasses with ATLAS and the Large Hadron Collider (LHC)	The University of Sheffield	Sheffield	Yorkshire and the Humber
+2008B	4170	Year of Astronomy at 2009 Bristol Festival of Nature	Bristol Natural History Consortium	Bristol	South West
+2008B	6000	Beyond the Moon Theatre Tour and Workshops	Guthlaxton College	Wigston Magna	East Midlands
+2008B	6900	The Kent Space School Survival Strategies and Space Exploration	University of Kent	Canterbury	South East
+2008B	5220	ISIS Materials World Professional Development Course	Rutherford Appleton Laboratory	Didcot	South East
+2008B	4650	From Earth to the Universe” linked to career opportunities	Edinburgh International Festival		Scotland
+2008B	700	www.sunearthplan.net	Lancaster University	Lancaster	North West
+2008B	13000	Bright Star - one woman and her passion for the stars	The Engineering Training Board	Kings Langley	East of England
+2008B	12252	IYA 2009: Taking telescopes into Schools and Shopping Centres	Open University	Milton Keynes	South East
+2008B	10000	Astronomic Delights (Part of the York Festival Science and Technology 2009)	Science City York	York	Yorkshire and the Humber
+2008B	2000	Schools Engaging with Research Astronomy at JENAM	Cardiff University	Cardiff	Wales
+2008B	9000	Dark Sky Wales	University of Glamorgan		Wales
+
 2008A	15000	“The Starlight Magazine”	Cardiff University	Cardiff	Wales
 2008A	7898	“Accelerate”	University of Oxford	Oxford	South East
 2008A	13458	”Herschel and the mysteries of the cold universe”	Science Made Simple	Cardiff	Wales
