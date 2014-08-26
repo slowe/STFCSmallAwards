@@ -60,6 +60,27 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2002B	2000	MATHS & SCIENCE TEACHING: VIDEO-CONFERENCING LINKS WITH PRIMARY SCHOOLS	DAMTP	Cambridge	East of England
+2002B	1500	COSMIC EVENTS - SCIENCE OF THE SKY AT SATROSPHERE	Satrosphere Ltd	Aberdeen	Scotland
+2002B	3000	EARTH, SUN & MOON WORKSHOPS	The Making Place	London	London
+2002B	3000	UK ASTRONOMY IN HAWAII	 University of Hertfordshire	Hatfield	East of England
+2002B	570	AN EVENING IN SPACE	Tapton School	Sheffield	Yorkshire and the Humber
+2002B	4600	ASTROPHYSICS SUMMARY SHEETS	Royal Holloway	London	London
+2002B	546	THEATRE AND PLANETARIUM PRESENTATIONS FOR YEAR 7, 9 AND PRIMARY SCHOOL STUDENTS	Francis Bacon School	St Albans	East of England
+2002B	1350	PARTICLE PHYSICS WITH COFFEE AND HOBNOBS	University of Southampton	Southampton	South East
+2002B	2500	ALL ABOARD FOR A MISSION TO MARS	SETPOINT	 Bishops Stortford	East of England
+2002B	4540	GETSET/BETSET ASTRONOMY & SPACE WORKSHOPS	SETPOINT Wales	Pontypridd	Wales
+2002B	507	PUBLIC UNDERSTANDING OF ASTRONOMY	Thomas Hardye School	Yeovil	South West
+2002B	4000	SCHOOLS @ MULLARD RADIO ASTRONOMY OBSERVATORY, CAMBRIDGE	University of Cambridge	Cambridge	East of England
+2002B	10000	JOURNEY THROUGH TIME - A SOUND AND LIGHT EXTRAVAGANZA	Southampton University	Southampton	South East
+2002B	5000	WEIRD WORLDS: THE EXCITING FACE OF SCIENCE	University of Plymouth	Plymouth	South West
+2002B	2520	THE SKY IS NO LIMIT - SCIENCE WEEK 2003	MSSL	Dorking	South East
+2002B	695	WI SPACE CASCADE CONFERENCE	National Federation of Women's Institutes	Stone	West Midlands
+2002B	5000	INTERACTIVE EXHIBITION OF SPACE SCIENCE AT NATIONAL EISTEDDFOD OF WALES	Eisteddfod Genedlaethol Cyrmru	Pontyclun	Wales
+2002B	4000	RIDE ON A COMET	Association for Science Education	Hatfield	East of England
+2002B	7000	A PARTICLE UNIVERSE	Industry Supports Education	Hatfield	East of England
+
+
 2002A	4526	A BRIEF HISTORY OF TIME	Vanishing Point Theatre Company	Glasgow	Scotland
 2002A	5000	NATIONAL ASTRONOMY WEEK	Observatory Science Centre	Herstmonceux	South East
 2002A	6000	ASTRONOMY PROJECTS FOR BA CREST AWARDS SCHEME	BAAS	London	London
