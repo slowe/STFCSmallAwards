@@ -86,6 +86,27 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2011B	10000	Colliding Particles - 'Endgame'	Pfilm Ltd	London	London
+2011B	8500	CERN @ Eisteddfod - Particle Physics Exhibition	National Eisteddfod of Wales		Wales
+2011B	4000	Out of this world - scientific adventures in space	Manchester Museum of Science and Industry	Manchester	North West
+2011B	4438	The Solar System Rocks	University of Glasgow	Glasgow	Scotland
+2011B	6550	A Travelling Exhibition of the Herschel Hi-GAL Milky Way	University of Hertfordshire	Hatfield	East of England
+2011B	3630	The Planeterrella – Space Lessons Pack	University of Leicester	Leicester	East Midlands
+2011B	8750	Deep Space High – the school for everything about space	Childrens Radio UK Ltd	London	London
+2011B	10000	Invisible Worlds – Making the Invisible Visible	Edinburgh International Science Festival	Edinburgh	Scotland
+2011B	1507	Revitalising the cosmic ray trigger for a transportable spark chamber	University of Birmingham	Birmingham	West Midlands
+2011B	3900	Cascading Physics Ideas using examples from particle physics at CERN	University of Birmingham	Birmingham	West Midlands
+2011B	5546	Supporting GCSE Astronomy in the UK	University of Glamorgan		Wales
+2011B	9700	Exploring the Invisible – Infrared and Astronomy	W5	Belfast	Northern Ireland
+2011B	9629	Accelerate! Toolkit	University of Oxford	Oxford	South East
+2011B	4758	Mars	Techniquest	Cardiff	Wales
+2011B	5000	Guerilla Science 2012	University of Cambridge	Cambridge	East of England
+2011B	3250	Astronomy Playing Cards	University of Oxford	Oxford	South East
+2011B	8000	INTECH
+Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Winchester	South East
+2011B	6400	Cosmic Balloons	University of Bristol	Bristol	South West
+2011B	10000	Mars Mission Control @your School	RAL Space	Didcot	South East
+
 2011A	9550	See Through Science - Engaging the Public with Cutting-Edge X-ray Detectors	University of Glasgow	Glasgow	Scotland
 2011A	2000	Lego Physics	Queen Mary, University of London	London	London
 2011A	4000	Out of this world - scientific adventures in space	Manchester Museum of Science and Industry	Manchester	North West
