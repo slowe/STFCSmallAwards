@@ -342,7 +342,7 @@ Star in a box – an interactive exploration of the life of stars	LCOGT	Cardiff	
 2004B	3300	HYDROGEN ALPHA PORTABLE TELESCOPE FOR SCHOOL VISIT	University of London Observatory	London	London
 2004B	7111	FROM FUNDAMENTAL PARTICLES TO GALAXIES AND THE UNIVERSE	University of Durham	Durham	North East
 2004B	5000	SUPERSTRINGS PARTICLE PHYSICS AND COSMOLOGY IN WORDS, PICTURES AND MUSIC	University of Oxford	Oxford	South East
-2004B	700	SCIENCE FAMILY FUN DAY	Spacefund	Broadstairs	Kent
+2004B	700	SCIENCE FAMILY FUN DAY	Spacefund	Broadstairs	South East
 2004B	8542	HUNT THE HIGGS PLAYING CARD GAME FOR THE PROMOTION AND TEACHING OF PARTICLE PHYSICS	University of Cambridge	Cambridge	East of England
 2004B	775	EXPLORING SPACE, SCIENCE WEEK 2005	The Craven Museum	Skipton	Yorkshire and the Humber
 2004B	1300	SPACE INVADERS	Kirklees Metropolitan Council	Huddersfield	Yorkshire and the Humber

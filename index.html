@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>STFC (PPARC) Small Awards 1999-2014</title>
+	<link rel="stylesheet" media="all" href="media/style.css" type="text/css" />
+	<style>
+	html {
+		min-height: 100%;
+		font-family: Helvetica, sans-serif;
+	}
+	body {
+		margin: 3em;
+		line-height: 1.3em;
+	}
+	#main {
+		width: 1024px;
+		margin: auto;
+	}
+	ol li {
+		margin-bottom: 1em;
+	}
+	span.amount { font-weight: bold; float: left; height: 2em; width: 5em; }
+	span.title { font-style: italic; }
+	table { border-collapse: collapse; }
+	table th { text-align: left; background-color: #404040; color: #e6e6e6; }
+	table th, table td { padding: 0.5em; margin: 0px; border: 1px solid black; }
+	.center { text-align: center; }
+	</style>
+	<script src="media/jquery-1.10.0.min.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+
+	function loadData(url){
+		$.ajax({
+			url: url,
+			method: 'GET',
+			dataType: 'json',
+			error: function(){
+				console.log('Error loading '+url);
+			},
+			success: function(data){
+				processData(data);
+			}
+		});
+	}
+
+	function makeTitle(title,total){
+		return '<h3>Round: '+title+' (&pound;'+total+')<\/h3>';
+	}
+
+	function processData(data){
+		var list = '';
+		var item = '';
+		var round = '';
+		var total = 0;
+		var byregion = {};
+		for(var i = 0; i < data.awards.length; i++){
+			if(round && round != data.awards[i].round){
+				list += (list=="" ? '' : '<\/ol>')+makeTitle(data.awards[i-1].round,total)+'<ol>'+item;
+				item = '';
+				total = 0;
+			}
+			item += '<li><span class="amount">&pound;'+data.awards[i].amount+'<\/span> <span class="title">'+data.awards[i].title+'<\/span> ('+data.awards[i].org+'), <span class=\"city\">'+data.awards[i].location+'<\/span>, <span class=\"region\">'+data.awards[i].region+'<\/span> [<a href="'+data.awards[i].source+'">source<\/a>]<\/li>';
+			total += data.awards[i].amount;
+			round = data.awards[i].round;
+
+			byregion[data.awards[i].region] = byregion[data.awards[i].region]+data.awards[i].amount || data.awards[i].amount;
+		}
+		list += (list=="" ? '' : '<\/ol>')+makeTitle(data.awards[i-1].round,total)+'<ol>'+item+'<\/ol>';
+
+		// Work out the pence/person in each region
+		var regionppp = {}
+		for(key in byregion){
+			regionppp[key] = (100*byregion[key]/data.population[key]);
+		}
+		regionppp = sortAssoc(regionppp)
+		var ppp = '<table><tr><th>Region<\/th><th class="center">Grant funding (pence/person)<\/th><\/tr>';
+		for(key in regionppp){
+			if(key && key != "International") ppp += '<tr><td>'+key+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><\/tr>';
+		}
+		ppp += '<\/table>';
+
+		$('#regional').append(ppp);
+		$('#grants').append(list);
+	}
+	
+	function sortAssoc(aInput){
+		var aTemp = [];
+		for (var sKey in aInput)
+		aTemp.push([sKey, aInput[sKey]]);
+		aTemp.sort(function () {return arguments[0][1] < arguments[1][1]});
+		var aOutput = [];
+		for (var nIndex = aTemp.length-1; nIndex >=0; nIndex--) aOutput[aTemp[nIndex][0]] = aTemp[nIndex][1];
+		return aOutput;
+	}
+
+	$(document).ready(function () {
+		loadData("smallawards.json");
+	});
+
+	</script>
+</head>
+<body>
+
+	<div id="main">
+
+		<h1>STFC/PPARC Small Awards 1999-2014</h1>
+		<p>The Public Engagement Small Awards Scheme provides funds for small, local or 'pilot' projects promoting <a href="http://www.stfc.ac.uk/">STFC</a> science and technology. Anyone can apply, including grant-funded research groups, STFC research facility users, schools, museums, etc. This page provides a breakdown of <a href="http://www.stfc.ac.uk/1838.aspx">STFC Small Award grants</a> awarded between 1999 and 2014. The data have been extracted from PDFs released by STFC. The regions have been determined by the location of the grant holder (not always the region where the money is going to be spent). The <a href="https://github.com/slowe/STFCSmallAwards">code and data for this are on GitHub</a> so please contribute additions/issues there.</p>
+		<h2>Regional Spending</h2>
+		<div id="regional"></div>
+		<h2>Awarded Grants</h2>
+		<div id="grants"></div>
+	</div>
+	
+</body>
+</html>
