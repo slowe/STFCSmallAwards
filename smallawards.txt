@@ -60,6 +60,28 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+
+
+2001B	3000	MULTIPLE SCHOOL BASED - LUNAR, METEORITE AND SPACE SCIENCE PROJECT	Abraham Darby School	Madeley	West Midlands
+2001B	2822	THE DEVELOPMENT AND LAUNCH OF 'SWIFT' - RAISING PUBLIC AWARENESS	National Space Centre	Leicester	East Midlands
+2001B	7100	PROVIDING MEDIA RESOURCES TO PUBLICISE UK PLANETARY SCIENCE	 Rutherford Appleton Laboratory	Didcot	South East
+2001B	5726	TAKING THE SUN TO A LARGER AUDIENCE	University of Keele	Newcastle-under-Lyme	West Midlands
+2001B	5000	DIALOGUE EVENT CONCERNING ASTRONOMY AND SPACE SCIENCE	Science Museum	London	London
+2001B	9340	STAR MATTERS - ACTIVITIES FOR CHILDREN AROUND 'BUILDING THE UNIVERSE'	Kelham Museum	Sheffield	Yorkshire and the Humber
+2001B	1400	'A' LEVEL PHYSICS AND THE SUSSEX EDM CENTRE	University of Sussex	Brighton	South East
+2001B	500	SCIENCE YEAR AT CROSSWAYS INFANT SCHOOL	Crossways Infant School	Thornbury	South West
+2001B	5000	PUBLICISING THE REBIRTH OF THE LOVELL TELESCOPE	 Jodrell Bank	Macclesfield	North West
+2001B	3600	EXPOSING THE ELECTRON	University of Plymouth	Plymouth	South West
+2001B	500	WOMEN AND SCIENCE DAY, 16/3/2002, IN CAMBRIDGE NATIONAL SCIENCE WEEK	Cambridge	East of England
+2001B	5000	NEW 'AS' LEVEL IN THE HISTORY AND PHILOSOPHY OF SCIENCE	Simon Langton Girls School	Canterbury	South East
+2001B	5000	LIVING ON ANOTHER PLANET - 'ALL SUMMER IN A DAY'	Childrens' Music Workshop	Highgate West Hill	London
+2001B	3000	DIALOGUE EVENT AT CHELTENHAM SCIENCE FESTIVAL ON 'LIFE IN SPACE'	Cheltenham Science Festival	Cheltenham	South West
+2001B	600	MEASURING THE HALF - LIFE OF MUON PARTICLES IN COSMIC RAYS	Armthorpe School	Doncaster	Yorkshire and the Humber
+2001B	1000	EDUCATIONAL SATELLITES CARD GAME	University of Leicester	Leicester	East Midlands
+2001B	2000	ROCKET SCIENCE FOR THE MASSES	University of Salford	Salford	North West
+2001B	2000	OUT OF THIS WORLD	The City Technology College	Birmingham	West Midlands
+2001B	7450	MARTIAN MINING OPERATIONS AT THE CAMBORNE 'EDUCATION THROUGH SPACE CENTRE'	Camborne Community College	Camborne	South West
+
 2001A	1734	FURTHER DEVELOPMENT OF PROJECT 'ORACLE'		Hingham	East of England
 2001A	3000	STFC SCIENCE IN THE COMMUNITY	Derry	Northern Ireland
 2001A	1000	DORSET SCHOOL SCIENCE FESTIVAL	Milton Abbey School	Blandford Forum	South West
