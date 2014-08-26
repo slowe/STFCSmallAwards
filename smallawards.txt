@@ -86,6 +86,22 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2008A	15000	“The Starlight Magazine”	Cardiff University	Cardiff	Wales
+2008A	7898	“Accelerate”	University of Oxford	Oxford	South East
+2008A	13458	”Herschel and the mysteries of the cold universe”	Science Made Simple	Cardiff	Wales
+2008A	750	“Exploring the Universe with Gravitational Waves”	Mullard Space Science Laboratory	Dorking	South East
+2008A	9000	“A simple cosmic ray detector for use in schools”	Simon Langton Grammar School for Boys	Canterbury	South East
+2008A	10000	“Moon landing – 40th Anniversary Exhibition”	University of Leicester	Leicester	East Midlands
+2008A	7000	“Special Issues of Plus celebrating physical sciences”	University of Cambridge Centre for Mathematical Sciences	Cambridge	East of England
+2008A	4200	“Spark Chambers detecting cosmic rays from outer space”	University of Birmingham	Birmingham	West Midlands
+2008A	1190	“Particle Physics Talks”	Queen Mary, University of London	London	London
+2008A	1500	“Project Helios”	Stretford Grammar School	Manchester	North West
+2008A	1700	“Rosetta on the Road (follow – on, Spring 2008)”	Open University	Milton Keynes South East
+2008A	4240	“Seeing the Universe in high definition”	Cardiff University	Cardiff	Wales
+2008A	9500	“Media Space”	The Ideas Foundation	London	London
+2008A	3600	“Facilitating Astronomy Communication and Education in the UK (FACE UK)”	Cardiff University	Cardiff	Wales
+2008A	880	“How to run a Space Camp at your School?”	Ysgol Uwchradd Glan Clwyd	St. Asaph	Wales
+
 2007A	5083	Secret of the Sun - IHY2007 Programme	Wynyard Planetarium & Observatory	Stockton-on-Tees	North East
 2007A	15000	Physcasting: Communicating Frontier Physics Research through Student-authored Podcasts	Queen’s University of Belfast	Belfast	Northern Ireland
 2007A	13354	Astronomy in the Classroom: School and Observatory Visits	University of London Observatory	London	London
