@@ -189,7 +189,7 @@ Round	Amount	Title	Organization	Location	Region
 2000A	7500	COSMOLOGY MEETS COMEDY	University of Glasgow	Glasgow	Scotland
 2000A	4450	FULWOOD EXTENSIVE AIR SHOWER ARRAY PROJECT	Preston College	Preston	North West
 2000A	500	12th ANNUAL UKSEDS SPACE CONFERENCE	Manchester University	Manchester	North West
-2000A	600	CIFEST - EDUCATIONAL SCIENCE FAIR	Robert Manning Technology College	Bourne	East Midlands
+2000A	600	SCIFEST - EDUCATIONAL SCIENCE FAIR	Robert Manning Technology College	Bourne	East Midlands
 2000A	5000	BRINGING THE ORACLE OF DELPHI TO THE UK	Geneva	International
 2000A	8000	ACCESSING THE LOVELL RADIO TELESCOPE	Jodrell Bank Science Centre	Macclesfield	North West
 2000A	2500	CORNWALL SCHOOLS ASTRONOMY PROJECT - GCSE ASTRONOMY	Treviglas Community College	Newquay	South West
