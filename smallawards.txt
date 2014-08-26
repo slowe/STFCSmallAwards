@@ -60,6 +60,52 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2004B	6000	A TOUR OF THE UNIVERSE	Sira Technology Limited	Chislehurst	South East
+2004B	3000	ESTABLISHING A TOUR FOR THE YOUNG ARTISTS@CERN EXHIBITION	University College London	London	London
+2004B	3500	STARS IN YOUR EYES	Ysgol Gyfun Cum Rhymni	Blackwood	Wales
+2004B	2500	EINSTEIN COMES TO RADSTOCK	The BA Bristol & Bath branch	Bristol	South West
+2004B	9332	SPACEROX: A PLANETARY ANALOGUE SAMPLE COLLECTION FOR HAND ON SCIENCE	University of Leicester	Leicester	East Midlands
+2004B	4185	SIXTH FORM EDUCATIONAL VISIT TO PHYSICS IN PERSPECTIVE 2005	Sir John Leman High School	Beccles	East of England
+2004B	1650	THE SKY IS NO LIMIT SCIENCE WEEK 2005	University College London	Dorking	South East
+2004B	788.50	MAPPING THE MOON	Rift House Primary School	Hartlepool	North East
+2004B	3300	HYDROGEN ALPHA PORTABLE TELESCOPE FOR SCHOOL VISIT	University of London Observatory	London	London
+2004B	7111	FROM FUNDAMENTAL PARTICLES TO GALAXIES AND THE UNIVERSE	University of Durham	Durham	North East
+2004B	5000	SUPERSTRINGS PARTICLE PHYSICS AND COSMOLOGY IN WORDS, PICTURES AND MUSIC	University of Oxford	Oxford	South East
+2004B	700	SCIENCE FAMILY FUN DAY	Spacefund	Broadstairs	Kent
+2004B	8542	HUNT THE HIGGS PLAYING CARD GAME FOR THE PROMOTION AND TEACHING OF PARTICLE PHYSICS	University of Cambridge	Cambridge	East of England
+2004B	775	EXPLORING SPACE, SCIENCE WEEK 2005	The Craven Museum	Skipton	Yorkshire and the Humber
+2004B	1300	SPACE INVADERS	Kirklees Metropolitan Council	Huddersfield	Yorkshire and the Humber
+2004B	5000	SERIES OF MONTHLY EVENING PLANETARIUM LECTURES AND SHOWS	Glasgow Science Centre	Glasgow	Scotland
+2004B	5000	SPACED OUT: A PIECE OF THE UNIVERSE COMES TO BRITAIN	Lancaster Girls Grammar School	Lancaster	North West
+2004B	3000	EINSTEINS FIRST LECTURE IN BRITAIN	The University of Manchester	Manchester	North West
+2004B	2000	PRIME SPACE, A QUARTELY ASTRONOMY LEAFLET FOR YOUNG PEOPLE	Institute of Astronomy	Cambridge	East of England
+2004B	2280	TEA, TALK AND TELESCOPE	University of Birmingham	Birmingham	West Midlands
+2004B	7685	DEEP IMPACT UK	Techniquest	Cardiff	Wales
+2004B	12400	FESTIVAL OF SCIENCE AND CULTURE 2005	National Space Centre	Leicester	East Midlands
+2004B	3200	UNIverse A SCIENCE POETRY COMPETITION CELEBRATING EINSTEIN YEAR	Science Events	London	London
+2004B	5000	EINSTEIN LOOKS OVER A FESTIVAL OF PHYSICS	The Observatory Science Centre	Herstmonceux	South East
+
+2004A	2860	PARTICLE PHYSICS WITH COFFEE AND HOBNOBS BUILDING ON SUCCESS	University of Southampton	Southampton	South East
+2004A	2500	SPACE TELESCOPES IN SCHOOL	Neatherd High School	Dereham	East of England
+2004A	1000	PARENTS WORKSHOP EXPLORING ASTRONOMY AND SOLAR SYSTEM AND NEWSLETTER	Shimna Integrated College	Belfast	Northern Ireland
+2004A	7500	KIDS IN SPACE DISADVANTAGED TOUR	Spacefund	Canterbury	South East
+2004A	1850	SCIFEST 2004 A SCIENCE EXTRAVAGANZA FOR ALL AGES	Robert Manning Technology College	Bourne	East Midlands
+2004A	4000	STARS R US AN ASTROCHEMISTRY EXHIBIT	University of Nottingham	Nottingham	East Midlands
+2004A	1500	CHaOS SCIENCE TOUR 2003	Individual	Cambridge	East of England
+2004A	4500	WONDERS OF THE SKY	Satrosphere Ltd	Aberdeen	Scotland
+2004A	3500	PORTABLE COSMIC RAY DETECTOR VISUALISATION TOOLS	University of Bristol	Bristol	South West
+2004A	2513	REACH FOR THE STARS	Minsthorpe Community College	Pontefract	Yorkshire and the Humber
+2004A	850	RHOSGOCH COUNTY PRIMARY SCHOOL SPACE DAY	Individual	Nr Builth Wells	Wales
+2004A	7750	YEAR 7 SPACE UNLEASHED A MAKEOVER FROM SCIENCE UPD8	Sheffield Hallam University	Sheffield	Yorkshire and the Humber
+2004A	5350	ASTRONOMY IN THE CLASSROOM: SCHOOL AND OBSERVATORY VISITS FOR KS2, KS3 AND KS4	University of London Observatory	London	London
+2004A	5400	ASTRONOMY FOR ALL: A PILOT PROJECT TO BRING TELESCOPES INTO SCHOOLS AND
+SCHOOL STUDENTS TO TELESCOPES	University of Oxford	Oxford	South East
+2004A	2000	WEEKEND IN SPACE DEVELOPING SPACE SCHOOL AWARD	University of Kent at Canterbury	Canterbury	South East
+2004A	7000	PLANETS IN THE CLASSROOM	Natural History Museum	London	London
+2004A	7000	STIMULATING PUBLIC UNDERSTANDING OF GAMMA-RAY BURST SCIENCE WITH SWIFT	National Space Centre	Leicester	East Midlands
+2004A	4000	PARTICLE PHYSICS LIGHT BADGES	University of Bristol	Bristol	South West
+2004A	1500	TAKING ASTRONOMY TO CORNWALL	Individual	Plymouth	South West
+2004A	2500	THE 2004 TRANSIT OF VENUS AWARD	University of Glamorgan	Pontypridd	Wales
 
 
 2003B	5000	DOME-SOLAIS	Eden Court Theatre	Inverness	Scotland
