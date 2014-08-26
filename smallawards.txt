@@ -86,6 +86,31 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2009B	7500	LHCsound: Sonification of the ATLAS data output	University College London	London	London
+2009B	7500	Science at music festivals (Guerilla Science Club)	University of Cambridge	Cambridge	East of England
+2009B	7500	Astronomy at the Urdd National Eisteddfod 2010	Urdd Gobaith Cymru		Wales
+2009B	4000	Particles of the Universe – interviews from the edge of discovery	Brunel University	Uxbridge	London
+2009B	7500	Earth Space- Reaching wider in Wales	Techniquest	Cardiff	Wales
+2009B	5300	National Eisteddfod – Dark Sky Wales	National Eisteddfod of Wales		Wales
+2009B	3000	Particle-Physics Manager: LHC Startup Edition	University of Birmingham	Birmingham	West Midlands
+2009B	6000	Sun|trek- the Final Frontier	University of Cambridge	Cambridge	East of England
+2009B	2750	“Antarctica: Mars on Earth Science competition”	Twyford Church of England High School	Twyford	South East
+2009B	2300	How not to be afraid of the dark	Honeysuckle Direction	Hereford	West Midlands
+2009B	7000	Living with a Star	University of Central Lancashire	Preston	North West
+2009B	7500	Universe today: cosmology, astrophysics and technology in your classroom	University College London	London	London
+2009B	6400	“Journey to the origins of the Universe”	Edinburgh International Science Festival	Edinburgh	Scotland
+2009B	7500	MISSION TO MARS	Unlimited Theatre	Leeds	Yorkshire and the Humber
+
+2009A	8000	Naked Astronomy; The Next Generation of Space Science Radio Shows	University of Cambridge	Cambridge	East of England
+2009A	8000	PP4SS( Particle Physics for Scottish Schools) - Phase II: LHC and the Higgs Boson	University of Edinburgh	Edinburgh	Scotland
+2009A	7465	Astronomy in the Classroom: School and Classroom Observatory Visits	University College London	London	London
+2009A	10000	Photons in the Classroom	University of Liverpool	Liverpool	North West
+2009A	2000	Maintenance and upgrade of cosmic ray spark chamber	University of Bristol	Bristol	South West
+2009A	2000	Community Cohesion through Science Linking College and Local Community	St.Boniface’s Catholic College	Plymouth	South West
+2009A	3000	The Jodcast	The University of Manchester	Manchester	North West
+2009A	3500	Bright Club: Space Time and Light	University College London	London	London
+2009A	5000	Extension of Lancaster Particle Physics Package	Lancaster University	Lancaster	North West
+
 2008B	14660	Science at music festivals (Guerrilla Space Camp)	University of Cambridge	Cambridge	East of England
 2008B	430	Particle Physics masterclasses with ATLAS and the Large Hadron Collider (LHC)	The University of Sheffield	Sheffield	Yorkshire and the Humber
 2008B	4170	Year of Astronomy at 2009 Bristol Festival of Nature	Bristol Natural History Consortium	Bristol	South West
