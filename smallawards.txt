@@ -60,6 +60,31 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2007A	5083	Secret of the Sun - IHY2007 Programme	Wynyard Planetarium & Observatory	Stockton-on-Tees	North East
+2007A	15000	Physcasting: Communicating Frontier Physics Research through Student-authored Podcasts	Queen’s University of Belfast	Belfast	Northern Ireland
+2007A	13354	Astronomy in the Classroom: School and Observatory Visits	University of London Observatory	London	London
+2007A	7500	LHC Outreach - Cascading into Schools, UK Wide	University of Birmingham	Birmingham	West Midlands
+2007A	8470	“The Starry Messenger”: an educational film drama for schools	University of Hertfordshire	Hatfield	East of England
+2007A	11740	Space 3D Explorer: Gravity show and workshops: Southern Tour	Digital Learning Foundation	West Kilbride	Scotland
+2007A	9800	Singing Science - A ”STFC” science and arts learning project celebrating frontier STFC science	University of Glasgow	Glasgow	Scotland
+2007A	1200	Tea talk and telescopes too	University of Birmingham	Birmingham	West Midlands
+2007A	12565	Promoting STFC science to the disengaged: radio and online outreach	University of Wales	Aberystwyth	Wales
+2007A	7250	Particle physics and the LHC in 37 seconds	University of Liverpool	Liverpool	North West
+2007A	15000	Creating a dedicated Vega Science Trust website for Scitech science	The Vega Science Trust	Brighton	South East
+2007A	3800	Space Watch	The SHARE Initiative	Hereford	West Midlands
+2007A	6000	The Jodcast	The University of Manchester	Manchester	North West
+2007A	14870	IHY –Frontier Science through Arts	The Share Initiative	
+2007A	5027	Welcome to Wales – Space Sciences cartoon exhibition	The Open University	Milton Keynes	South East
+2007A	11851.40	Astronomy to a Captive Audience	Cardiff University	Cardiff	Wales
+2007A	4500	Sun|trek - the Next Generation	University of Cambridge Department of Applied Mathematics and Theoretical Physics	Cambridge	East of England
+2007A	13329.25	3D LHC	Durham University	Durham	North East
+2007A	6000	CERN – LHC PODCAST and PODCAST website	University of Manchester	Manchester	North West
+2007A	14600	Cosmology Exhibition – National Eisteddfod of Wales	National Eisteddfod of Wales	Cardiff	Wales
+2007A	5900	Cosmic Ray Spark Chamber for the East of England	University of Cambridge	Cambridge	East of England
+2007A	10000	Gravity beyond the apple	Cardiff University	Cardiff	Wales
+2007A	7900	Out of This World Poetry	Liverpool John Moores University	Birkenhead	North West
+
+
 2006B	7000	The Big Bang begins in Yorkshire: The Stage Show	University of Sheffield	Sheffield	Yorkshire and the Humber
 2006B	4000	I can't change the laws of physics, Captain!	Queens University	Belfast	Northern Ireland
 2006B	2212	The Jodcast	The University of Manchester	Manchester	North West
