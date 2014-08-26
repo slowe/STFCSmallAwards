@@ -86,13 +86,38 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2012B	9860	Speak Up Scotland	English-Speaking Union Scotland	Edinburgh	Scotland
+2012B	10000	Patterns - Revealing Nature's Underlying Order and Form	Edinburgh International Science Festival	Edinburgh	Scotland
+2012B	8816	The Higgs and Beyond: exploring particle physics today - and in the future	Queen Marys University of London	London	London
+2012B	9350	Deep Space High - Space Camp	Children’s Radio UK Ltd	London	London
+2012B	10000	The Search for Life	Techniquest	Cardiff	Wales
+2012B	1600	How Far Can You See	Fuel Theatre	London	London
+2012B	5265	Oval Cluster KS2 Mission to Space	Wyvil Primary School	London	London
+2012B	10000	Minds over Matter: CERN People films	Crow Hill Films Ltd	Edinburgh	Scotland
+2012B	9200	Sun/Trek – Reaching Out	University of Cambridge	Cambridge	East of England
+2012B	8314	After Hours at the Polestar Club	Centre for Performance Research Ltd	Aberystwyth	Wales
+2012B	5737	Schools Engineering Challenge	Liverpool John Moores University	Birkenhead	North West
+
+2012A	9984	The LOFAR Planetarium	STFC Laboratories – RAL Space	Didcot	South East
+2012A	1500	Particle Physics for Fife	University of Glasgow	Glasgow	Scotland
+2012A	5950	Aurora Explorer – on tour!	University of Leicester	Leicester	East Midlands
+2012A	6000	Jiggling Atoms	Queen Mary, University of London	London	London
+2012A	9530	Nuclear Physics Workshops, Summer School and Open Day	University of Liverpool	Liverpool	North West
+2012A	5960	Outreach for PoleCATS (Polar test of the Conceptual and Tiny Spectrometer)	University College London	London	London
+2012A	9974	Invisible Heat	Invisible Dust	Southampton	South East
+2012A	3700	Making an Impact Phase 2 - Wiltshire's meteorite comes home	The Open University	Milton Keynes	South East
+2012A	9675	Supporting Dark Sky Communities in the Park	Nottingham Trent University	Nottingham	East Midlands
+2012A	9800	Shake Sphere	Flickering Ltd	London	London
+2012A	6000	Stargazing Oxfordshire: University Researchers and Community Astronomers bringing Space Science to the Public	University of Oxford	Oxford	South East
+2012A	9949	SpaceJunkies: a comic platform for astronomy engagement	University of the West of England	Bristol	South West
+
 2011B	10000	Colliding Particles - 'Endgame'	Pfilm Ltd	London	London
 2011B	8500	CERN @ Eisteddfod - Particle Physics Exhibition	National Eisteddfod of Wales		Wales
 2011B	4000	Out of this world - scientific adventures in space	Manchester Museum of Science and Industry	Manchester	North West
 2011B	4438	The Solar System Rocks	University of Glasgow	Glasgow	Scotland
 2011B	6550	A Travelling Exhibition of the Herschel Hi-GAL Milky Way	University of Hertfordshire	Hatfield	East of England
 2011B	3630	The Planeterrella – Space Lessons Pack	University of Leicester	Leicester	East Midlands
-2011B	8750	Deep Space High – the school for everything about space	Childrens Radio UK Ltd	London	London
+2011B	8750	Deep Space High – the school for everything about space	Children's Radio UK Ltd	London	London
 2011B	10000	Invisible Worlds – Making the Invisible Visible	Edinburgh International Science Festival	Edinburgh	Scotland
 2011B	1507	Revitalising the cosmic ray trigger for a transportable spark chamber	University of Birmingham	Birmingham	West Midlands
 2011B	3900	Cascading Physics Ideas using examples from particle physics at CERN	University of Birmingham	Birmingham	West Midlands
