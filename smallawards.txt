@@ -2,7 +2,33 @@ Sources
 2014A	http://www.stfc.ac.uk/files/1838/1838_res_1.pdf
 2013B	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013B.pdf
 2013A	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013A.pdf
-1999-2012	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+1999B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2000A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2000B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2001A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2001B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2002A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2002B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2003A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2003B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2004A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2004B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2005A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2005B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2006A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2006B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2007A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2007B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2008A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2008B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2009A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2009B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2010A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2010B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2011A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2011B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2012A	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
+2012B	http://www.stfc.ac.uk/resources/pdf/PrevSmallAwards.pdf
 
 Regions
 North West	7052000
