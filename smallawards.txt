@@ -86,6 +86,29 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2011A	9550	See Through Science - Engaging the Public with Cutting-Edge X-ray Detectors	University of Glasgow	Glasgow	Scotland
+2011A	2000	Lego Physics	Queen Mary, University of London	London	London
+2011A	4000	Out of this world - scientific adventures in space	Manchester Museum of Science and Industry	Manchester	North West
+2011A	9365	EXOPLANETS	Curious Directive	Coventry	West Midlands
+2011A	9500	York Science and Innovation Grand Tour	York Science and Innovation Grand Tour	York	Yorkshire and the Humber
+2011A	7146	Dark Skies and Island Opportunities: Astronomy in Orkney	Orkney International Science Festival	Orkney	Scotland
+2011A	6780	UKube in the classroom - from space to Fukushima	The Open University	Milton Keynes	South East
+2011A	2900	York Museums Trust Observatory	York Museums Trust	York	Yorkshire and the Humber
+2011A	6420	Funding of 'Search for a Star' live show	University of Oxford	Oxford	South East
+2011A	10000	From Space Dust to Us	Techniquest	Cardiff	Wales
+2011A	3000	Eyes on Pocket Spacecraft	Las Cumbres Observatory Global Telescope Network	Cardiff	Wales
+2011A	1000	Thornbury Science Festival	Thornbury Science Festival Committee	South West
+2011A	4600	DJ Physics	Royal Institution of Great Britain	London	London
+2011A	6000	Astronomy in the Park - Landscape and Skyscape	Nottingham Trent University	Nottingham	East Midlands
+2011A	2000	Bright Club: Wonders	University College London	London	London
+2011A	7500	Astronomy Connections: Strengthening Public and Schools Engagement with hands on observing	University of Oxford	South East
+2011A	9940	Capture Space	Glasgow Science Centre	Glasgow	Scotland
+2011A	6850	An Exoplanetarium for Schools	Keele University	Newcastle-under-Lyme	West Midlands
+2011A	3000	Girls Allowed! Why women should study physics	Brunel University	Uxbridge	London
+2011A	10000	Communicating STFC Science with a mobile planetarium	University of Warwick	Coventry	West Midlands
+2011A	3500	The Molecular Odyssey	University of Bath	Bath	South West
+2011A	9720	'Understanding Our World' - an engaging workshop for Key stage 3 students	At Bristol	Bristol	South West
+
 2010B	10000	Dark Matter	Coombeshead College, Devon		South West
 2010B	9000	Magnetism and Superconductivity Workshops	University of Oxford	Oxford	South East
 2010B	5000	Bringing the Sun down to Earth	South Cheshire Astronomical Society		North West
