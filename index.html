@@ -73,9 +73,9 @@
 			regionppp[key] = (100*byregion[key]/data.population[key]);
 		}
 		regionppp = sortAssoc(regionppp)
-		var ppp = '<table><tr><th>Region<\/th><th class="center">Grant funding (pence/person)<\/th><\/tr>';
+		var ppp = '<table><tr><th>Region<\/th><th class="center">Grant funding (pence/person)<\/th><th class="center">Population (2011)<\/th><\/tr>';
 		for(key in regionppp){
-			if(key && key != "International") ppp += '<tr><td>'+key+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><\/tr>';
+			if(key && key != "International") ppp += '<tr><td>'+key+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+data.population[key]+'<\/td><\/tr>';
 		}
 		ppp += '<\/table>';
 
