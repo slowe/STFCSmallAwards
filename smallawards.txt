@@ -86,6 +86,37 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2010B	10000	Dark Matter	Coombeshead College, Devon		South West
+2010B	9000	Magnetism and Superconductivity Workshops	University of Oxford	Oxford	South East
+2010B	5000	Bringing the Sun down to Earth	South Cheshire Astronomical Society		North West
+2010B	2570	Big Bang Physics: A prototype smart phone application	University of Oxford	Oxford	South East
+2010B	9511	To install an Observatory as an evening activity for teenagers	Field Studies Council, Cumbria		North West
+2010B	2210	In the Beginning... Stories from the Science of our Origins	Scottish Storytelling Forum		Scotland
+2010B	2000	Schools outreach and public lectures on neutron and x-ray research	University of Kent	Canterbury	South East
+2010B	7100	Project 500: Exploiting Public Libraries as Informal Science Learning Enviroments	Queen's University, Belfast	Belfast	Northern Ireland
+2010B	5540	Rutherford 2011	University of York	York	Yorkshire and the Humber
+2010B	4105	Shining light on pathology: breast cancer screening with Raman spectroscopy	Gloucestershire Hospitals NHS Foundation Trust		South West
+2010B	5000	Going Dark: a touring theatre performance about astronomy and perception	Fuel Theatre Ltd	London	London
+2010B	7000	South Ribble in Space	Balshaw's CE High School	Leyland	North West
+2010B	8542	Urban Sputnik: Interactive Cosmology	Imperial College London	London	London
+2010B	4980	Leading Space Education Wales	University of Glamorgan		Wales
+2010B	2600	A Cascade of Physics in and from Particle Physics Research	University of Birmingham	Birmingham	West Midlands
+2010B	5000	Frontiers and Barriers	Thinktank, Birmingham Science Museum	Birmingham	West Midlands
+2010B	9500	Guerilla Science 2011	University of Cambridge	Cambridge	East of England
+2010B	1500	It's not Rocket Science	Durham University	Durham	North East
+
+2010A	5698	GCSE CERN@school	Langton Star Centre		South East
+2010A	8800	Super K sonic booooum	Queen Mary University London	London	London
+2010A	4000	CHaOS summer road show 2010	Cambridge Hands on Science	Cambridge	East of England
+2010A	4400	The Open University
+Making an impact phase 1	The Open University	Milton Keynes	South East
+2010A	5000	Galileo teacher training programme	Cardiff University	Cardiff	Wales
+2010A	3500	Las Cumbres Observatory Global Telescope Network
+Star in a box – an interactive exploration of the life of stars	LCOGT	Cardiff	Wales
+2010A	9894	Frontiers	Science Oxford	Oxford	South East
+2010A	7500	LHC sound: sonification of the ATLAS data output	University College London	London	London
+2010A	9700	Views of near and far: tayside meets the universe	Dundee Science Centre	Dundee	Scotland
+
 2009B	7500	LHCsound: Sonification of the ATLAS data output	University College London	London	London
 2009B	7500	Science at music festivals (Guerilla Science Club)	University of Cambridge	Cambridge	East of England
 2009B	7500	Astronomy at the Urdd National Eisteddfod 2010	Urdd Gobaith Cymru		Wales
