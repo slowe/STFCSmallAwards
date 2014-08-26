@@ -60,6 +60,25 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2006B	7000	The Big Bang begins in Yorkshire: The Stage Show	University of Sheffield	Sheffield	Yorkshire and the Humber
+2006B	4000	I can't change the laws of physics, Captain!	Queens University	Belfast	Northern Ireland
+2006B	2212	The Jodcast	The University of Manchester	Manchester	North West
+2006B	8200	Astronomy in the Classroom: School and Observatory Visits	University of London Observatory	London	London
+2006B	7150	School and Community Hands-on Education Programme	Cranbrook School	Cranbrook	South East
+2006B	2700	Merseyside Astronomy Day - Bringing research to the Public	Liverpool John Moore's University	Birkenhead	North West
+2006B	12000	Seeking Saturn	The Ideas Foundation	London	London
+2006B	10000	LHC Monthly Podcast	University of Manchester	Manchester	North West
+2006B	2650	Public outreach activities during a Polar Expedition	University of Leicester	Leicester	East Midlands
+2006B	8374	Sun to Earth in 3-D	CCLRC Rutherford Appleton Laboratory	Didcot	South East
+2006B	4000	SummerSpace School at Kent	University of Kent	Canterbury	South East
+2006B	2636	The Light Fantastic Roadshow	University of Southampton	Southampton	South East
+2006B	3350	Planetarium Evening Lecture Series	Glasgow Science Centre	Glasgow	Scotland
+2006B	7800	Scottish Science Curriculum Resources using the Bradford Robotic Telescope	University of Glasgow	Glasgow	Scotland
+2006B	1500	Astronomy & Planetary Science Elements of the Rocketmania! Model Rocketry Competition National Finals	Out of this World Learning	Bury St. Edmunds	East of England
+2006B	1000	Our life-giving star: energy flow for the Sun to the Earth	University of Central Lancashire	Preston	North West
+2006B	2000	Milton Keynes Science Festival 2007	Business Link Solutions Ltd	Thame	South East
+2006B	6000	The Lancaster Particle Physics Package (LPPP)-LHC Module	Individual	Lancaster	North West
+
 2006A	8448	SNOWDON SUMMIT COSMIC RAY DATA DISPLAY	Rutherford Appleton Laboratory	Didcot	South East
 2006A	3000	SUMMER SPACE CAMP	Burnham Grammar School	Slough	South East
 2006A	3500	GAMMA RAY ASTRONOMY AT THE ROYAL SOCIETY EXHIBITION IN GLASGOW	University of Durham	Durham	North East
