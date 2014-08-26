@@ -60,6 +60,25 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+2003A	500	EARTH & SPACE LEARNING ENHANCEMENT PROJECT	Cove School	Farnborough	South East
+2003A	3000	THE HUMAN ORRERY	Armagh Observatory	Armagh	Northern Ireland
+2003A	3590	DIALOGUES AND DEBATES	Festival of Science and Innovation	Derry	Northern Ireland
+2003A	7000	AN AFFORDABLE COSMIC RAY DETECTOR FOR EDUCATION	 University of Bristol	Bristol	South West
+2003A	2000	LIFT-OFF HASTINGS	The Grove School	St Leonards on Sea	South East
+2003A	5000	ASTRONOMY IN THE CLASSROOM: SCHOOL VISITS FOR KS2, KS3 AND KS4	University College London	London	London
+2003A	9800	INTERPRETATION BOARDS FOR NEW OBSERVATION PATHWAY AROUND LOVELL TELESCOPE	 Jodrell Bank Observatory	Macclesfield	North West
+2003A	1000	ALIEN WORLDS	 University of Glamorgan	Pontypridd	Wales
+2003A	3400	A COSMIC RAY DETECTOR FOR SCHOOLS TALK	University College London	London	London
+2003A	6000	SUN/TREK TOURS THE UK	University of Cambridge	Cambridge	East of England
+2003A	3640	SCIZMIC, THE SCIENCE DISCOVERY CLUB NETWORK	ECSITE UK	London	London
+2003A	6977	KIDS IN SPACE DISADVANTAGED SCHOOLS TOUR	Spacefund	Canterbury	South East
+2003A	1200	TWO KENT SPACE SCHOOLS IN AUGUST 2003	University of Kent at Canterbury	Canterbury	South East
+2003A	4500	SCIENTIFIC SATELLITES EDUCATIONAL CARD GAME	University of Leicester	Leicester	East Midlands
+2003A	5300	POSITRON PEEPSHOW	 University of Bristol	Bristol	South West
+2003A	2155	UPDATE AND EXTENSION OF 'CAREERS FOR GIRLS WITH A VISION'	CCLRC	Didcot	South East
+2003A	4500	IMPROVING CLARITY OF INFORMATION VIA PHYSICS ANIMATIONS	Science Line	Ealing	London
+2003A	569	THE WESTLANDS SUN DIAL	Newcastle Community High School	Newcastle-under-Lyme	West Midlands
+
 2002B	2000	MATHS & SCIENCE TEACHING: VIDEO-CONFERENCING LINKS WITH PRIMARY SCHOOLS	DAMTP	Cambridge	East of England
 2002B	1500	COSMIC EVENTS - SCIENCE OF THE SKY AT SATROSPHERE	Satrosphere Ltd	Aberdeen	Scotland
 2002B	3000	EARTH, SUN & MOON WORKSHOPS	The Making Place	London	London
