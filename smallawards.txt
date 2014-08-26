@@ -60,6 +60,23 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
+
+
+2003B	5000	DOME-SOLAIS	Eden Court Theatre	Inverness	Scotland
+2003B	5000	Science outreach through young artists @ CERN	University College London	London	London
+2003B	600	Schools project: Detection and measurement of cosmic radiation	Dorset Asset & Valter Prize Trust	Poole	South West
+2003B	7000	One small step, many giant myths - Debunking moon hoax theories	University of Glasgow	Glasgow	Scotland
+2003B	9974	The Lancaster Particle Physics Package	Lancaster University	Lancaster	North West
+2003B	4385	A UK/Mars station network	University of Reading	Reading	South East
+2003B	3000	Discover Space	Northumberland Astronomical Society	High Hauxley	North East
+2003B	7000	Exploring meteorite mysteries	Cardiff University	Cardiff	Wales
+2003B	2000	The Rovers Return	Individual	Dervock	Northern Ireland
+2003B	540	The Light Express Roadshow	University of Southampton	Southampton	South East
+2003B	5000	The Particle Universe	Individual	Hatfield	East of England
+2003B	9900	Learning Science, Making News	Queens University Belfast	Belfast	Northern Ireland
+2003B	6000	Stellar Evolution: The life and death of stars	Royal Observatory Greenwich	Greenwich	London
+2003B	5000	The World's largest expansion cloud chamber	Magna Science Adventure Centre	Sheffield	Yorkshire and the Humber
+
 2003A	500	EARTH & SPACE LEARNING ENHANCEMENT PROJECT	Cove School	Farnborough	South East
 2003A	3000	THE HUMAN ORRERY	Armagh Observatory	Armagh	Northern Ireland
 2003A	3590	DIALOGUES AND DEBATES	Festival of Science and Innovation	Derry	Northern Ireland
@@ -115,7 +132,7 @@ Round	Amount	Title	Organization	Location	Region
 2002A	5000	TAKING A REAL - TIME COSMIC RAY DETECTOR TO THE PUBLIC	University of Bristol	Bristol	South West
 2002A	2000	SHARING METEORITES TO ENRICH LEARNING IN SOUTH WALES	Techniquest	Cardiff	Wales
 2002A	4760	THE SPACEGUARD CENTRE	The Spaceguard Centre	Knighton	Wales
-2002A	4500	BIG BANG ANIMATION AND RADIOACTIVITY WEB RESOURCES		Hatfield	East of England
+2002A	4500	BIG BANG ANIMATION AND RADIOACTIVITY WEB RESOURCES	Individual	Hatfield	East of England
 2002A	620	DEVELOPING ROLE PLAYS ABOUT THE LIVES OF CAROLINE AND WILLIAM HERSCHEL	Hayesfield Technology College	Bath	South West
 
 2001B	3000	MULTIPLE SCHOOL BASED - LUNAR, METEORITE AND SPACE SCIENCE PROJECT	Abraham Darby School	Madeley	West Midlands
@@ -138,14 +155,14 @@ Round	Amount	Title	Organization	Location	Region
 2001B	2000	OUT OF THIS WORLD	The City Technology College	Birmingham	West Midlands
 2001B	7450	MARTIAN MINING OPERATIONS AT THE CAMBORNE 'EDUCATION THROUGH SPACE CENTRE'	Camborne Community College	Camborne	South West
 
-2001A	1734	FURTHER DEVELOPMENT OF PROJECT 'ORACLE'		Hingham	East of England
+2001A	1734	FURTHER DEVELOPMENT OF PROJECT 'ORACLE'	Individual	Hingham	East of England
 2001A	3000	STFC SCIENCE IN THE COMMUNITY	Derry	Northern Ireland
 2001A	1000	DORSET SCHOOL SCIENCE FESTIVAL	Milton Abbey School	Blandford Forum	South West
 2001A	3898	THE RUNAWAY PLANETAR	Hertfordshire University	East of England
 2001A	2712	NASA JOHNSON SPACE CENTER PROJECT 2001	Careers Wales West	Carmarthen	Wales
-2001A	980	ASTRONOMY EDUCATION AT SCIENCE TEACHER MEETINGS		London	London
+2001A	980	ASTRONOMY EDUCATION AT SCIENCE TEACHER MEETINGS	Individual	London	London
 2001A	4350	PARTICLE PHYSICS SUMMARY SHEETS (UPDATE)	Royal Holloway	London	London
-2001A	135	ASTRONOMY FOR SCHOOLS		Cambridge	East of England
+2001A	135	ASTRONOMY FOR SCHOOLS	Individual	Cambridge	East of England
 2001A	5000	SPACE SCIENCE NEWS 'SPECIAL EDITION'	The Queens University of Belfast	Northern Ireland
 2001A	4500	STFC SCIENCE AT THE UCL SCIENCE CENTRE	University College London	London	London
 2001A	8120	DISCOVERING THE COSMOS FROM LA PALMA	Isaac Newton Group	Santa Cruz De La Palma	International
@@ -153,11 +170,11 @@ Round	Amount	Title	Organization	Location	Region
 2001A	5500	DISPLAY OF ALEPH AND DELPHI COMPONENTS	Science Museum	London	London
 2001A	3235	SKYWATCH	Sheffield Hallam University	Sheffield	Yorkshire and the Humber
 2001A	6083	INNOVATIVE SHOWS FOR THE MOBILE PLANETARIUM	Aberdeen College Planetarium	Aberdeen	Scotland
-2001A	750	UK SEDS 13th ANNUAL STUDENT SPACE CONFERENCE		Newcastle upon Tyne	North East
+2001A	750	UK SEDS 13th ANNUAL STUDENT SPACE CONFERENCE	Individual	Newcastle upon Tyne	North East
 2001A	3000	PLANETARIUM POST - VISIT ACTIVITIES	Techniquest	Cardiff	Wales
 2001A	500	FLIGHT AND ROCKETS	Grove School	Market Drayton	West Midlands
 2001A	1000	ASTRONOMY MASTERCLASS FOR SENIOR PRIMARY PUPILS	Lancaster Girls Grammar School	Lancaster	North West
-2001A	7500	AN INTRODUCTION TO A WORLD OF PARTICLES		 Hatfield	East of England
+2001A	7500	AN INTRODUCTION TO A WORLD OF PARTICLES	Individual	 Hatfield	East of England
 2001A	3532	SPARK CHAMBER DEMONSTRATIONS AT SCHOOLS	University of Birmingham	Birmingham	West Midlands
 
 2000B	2000	PARTICLE PHYSICS LECTURES	Queen Mary & Westfield College	London	London
@@ -170,12 +187,12 @@ Round	Amount	Title	Organization	Location	Region
 2000B	2950	DIGITAL IMAGING EQUIPMENT PURCHASE	Norwich Astronomical Society	Norwich	East of England
 2000B	5000	BIRMINGHAM SCHOOLS' WEBSITE, PHASE TWO	University of Birmingham	Birmingham	West Midlands
 2000B	4000	THE CARDIFF RADIO OBSERVATORY	University of Wales	Cardiff	Wales
-2000B	360	Space		Liverpool	North West
+2000B	360	Space	Individual	Liverpool	North West
 2000B	2200	A BRIEF HISTORY OF TIME	CCA @ McLellan Galleries	Glasgow	Scotland
 2000B	5000	CONNECTIONS IN SPACE: FROM THE QUANTUM TO THE COSMOS	DAMTP	Cambridge	East of England
 2000B	1410	WOMEN IN ASTRONOMY AND GEOPHYSICS BROCHURE	CCLRC	Didcot	South East
-2000B	2800	GCSE ASTRONOMY GUIDE		Lytham St Annes	North West
-2000B	2000	GENERATION MARS' EDUCATIONAL YOUTH COMPETITION		West Kirby	North West
+2000B	2800	GCSE ASTRONOMY GUIDE	Individual	Lytham St Annes	North West
+2000B	2000	GENERATION MARS' EDUCATIONAL YOUTH COMPETITION	Individual	West Kirby	North West
 2000B	4000	MOON PHASES, A PILOT PROJECT	University College London	London	London
 2000B	400	INDUSTRY WEEK PROJECT - SPACE SCIENCE	Ladymead Community School	Taunton	South West
 2000B	5000	NEW DOME FOR SCHOOLS' PLANETARIUM	Mizar Astronomy	Dorset	South West
@@ -214,7 +231,7 @@ Round	Amount	Title	Organization	Location	Region
 1999B	5000	CONCISE Project	Manchester Metropolitan University	Manchester	North West
 1999B	9650	BEAGLE 2 AND YOU	 The Open University	Milton Keynes	South East
 1999B	6237	Over the Moon	Physico Theatre	Rossendale	North West
-1999B	5000	THE REMOTE CHALLENGER LEARNING CENTRE		National Space Science Centre	Leicester	East Midlands
+1999B	5000	THE REMOTE CHALLENGER LEARNING CENTRE	National Space Science Centre	Leicester	East Midlands
 1999B	750	LIFTOFF! THE STUDENT PAYLOAD COMPETITION	 University of Surrey	Guilford	South East
 1999B	3000	ICE COLONY ALPHA - AUDIO MATHS PROJECT "SPACEBOX"	National Association of the Education of Sick Children	London	London
 1999B	540	EUREKA 2000	Arnold Schools Limited	Preston	North West
