@@ -60,7 +60,23 @@ Round	Amount	Title	Organization	Location	Region
 2013A	10000	National Astronomy Week 2014: Target Jupiter	The Observatory Science Centre	Herstmonceux	South East
 2013A	9973	When a butterfly flaps its wings......	University of the West of England	Bristol	South West
 
-
+2002A	4526	A BRIEF HISTORY OF TIME	Vanishing Point Theatre Company	Glasgow	Scotland
+2002A	5000	NATIONAL ASTRONOMY WEEK	Observatory Science Centre	Herstmonceux	South East
+2002A	6000	ASTRONOMY PROJECTS FOR BA CREST AWARDS SCHEME	BAAS	London	London
+2002A	1500	WORCESTERSHIRE FESTIVAL OF SCIENCE	Worcestershire County Council	Worcester	West Midlands
+2002A	5000	SOLAR ASTRONOMY AND DAYTIME OBSERVATORY VISITS FOR SCHOOL CHILDREN AT KEY STAGE 3	University College London	London	London
+2002A	500	SciFEST 2002 - AN EDUCATIONAL SCIENCE FAIR	Robert Manning Technology College	Bourne	East Midlands
+2002A	7500	BRINGING 'INTO THE ANTIWORLD' AT THE EDINBURGH FRINGE FESTIVAL	Passerelle Science-Cite	Geneva	International
+2002A	500	BRIDGING THE 'SPACE' BETWEEN PRIMARY AND SECONDARY SCHOOLS	Greendown School	Swindon	South West
+2002A	8100	'STARZ'	National Space Centre	Leicester	East Midlands
+2002A	5000	PILOT CPD PROGRAMME FOR 5-14 EARTH AND SPACE	Royal Observatory Edinburgh	Edinburgh	Scotland
+2002A	1000	UK SEDS 14th ANNUAL STUDENT SPACE CONFERENCE	 Kingston University	London	London
+2002A	1355	HANDS ON THE SOLAR SYSTEM - AN ASTRONOMICAL EXHIBITION	MSSL	Dorking	South East
+2002A	5000	TAKING A REAL - TIME COSMIC RAY DETECTOR TO THE PUBLIC	University of Bristol	Bristol	South West
+2002A	2000	SHARING METEORITES TO ENRICH LEARNING IN SOUTH WALES	Techniquest	Cardiff	Wales
+2002A	4760	THE SPACEGUARD CENTRE	The Spaceguard Centre	Knighton	Wales
+2002A	4500	BIG BANG ANIMATION AND RADIOACTIVITY WEB RESOURCES		Hatfield	East of England
+2002A	620	DEVELOPING ROLE PLAYS ABOUT THE LIVES OF CAROLINE AND WILLIAM HERSCHEL	Hayesfield Technology College	Bath	South West
 
 2001B	3000	MULTIPLE SCHOOL BASED - LUNAR, METEORITE AND SPACE SCIENCE PROJECT	Abraham Darby School	Madeley	West Midlands
 2001B	2822	THE DEVELOPMENT AND LAUNCH OF 'SWIFT' - RAISING PUBLIC AWARENESS	National Space Centre	Leicester	East Midlands
