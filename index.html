@@ -72,6 +72,7 @@
 		this.url = (typeof inp.json=="string" ? inp.json : "smallawards.json");
 		this.years = [1999,2014];
 		this.madeslider = false;
+		this.regions = {};
 		
 		this.loadData(this.url);
 		return this;
@@ -116,6 +117,7 @@
 		this.awards = [];
 		this.years = years;
 		for(var i = 0; i < this.data.awards.length; i++){
+			this.regions[this.data.awards[i].region] = true;
 			if(this.data.awards[i].year >= this.years[0] && this.data.awards[i].year <= this.years[1]) this.awards.push(this.data.awards[i]);
 		}
 		this.buildOutput()
@@ -143,17 +145,22 @@
 		}
 		list += (list=="" ? '' : '<\/ol>')+makeTitle(this.awards[i-1].round,total)+'<ol>'+item+'<\/ol>';
 
-		// Work out the pence/person in each region
+		// Work out the pence/person/year in each region
 		var regionppp = {}
-		for(key in byregion){
-			regionppp[key] = (100*byregion[key]/this.data.population[key]);
+		for(key in this.regions){
+			if(key) regionppp[key] = (key && byregion[key] && this.data.population[key]) ? (100*byregion[key]/this.data.population[key])/(this.years[1]-this.years[0]+1) : 0;
 		}
 		regionppp = sortAssoc(regionppp)
-		var ppp = '<table><tr><th rowspan="2">Region<\/th><th class="center" colspan="2">Grant funding<\/th><th rowspan="2" class="center">Population<br />(2011)<\/th><\/tr><tr><th class="center">Total &pound;<\/th><th class="center">pence/person<\/th><\/tr>';
+		var ppp = '<table><tr><th rowspan="2">Region<\/th><th class="center" colspan="2">Grant funding<\/th><th rowspan="2" class="center">Population<br />(2011)<\/th><\/tr><tr><th class="center">Total &pound;<\/th><th class="center">pence/person/yr<\/th><\/tr>';
 		var max = 0;
+		var v,pop;
 		for(key in regionppp){
-			if(key && key != "International") ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+addCommas(byregion[key].toFixed(2))+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+addCommas(this.data.population[key])+'<\/td><\/tr>';
-			max = (regionppp[key] > max ? regionppp[key] : max);
+			if(key && key != "International"){
+				v = byregion[key] || 0;
+				pop = this.data.population[key] || 0;
+				ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+addCommas(v.toFixed(2))+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+addCommas(pop)+'<\/td><\/tr>';
+				max = (regionppp[key] > max ? regionppp[key] : max);
+			}
 		}
 		ppp += '<\/table>';
 
