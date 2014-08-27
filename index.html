@@ -149,10 +149,10 @@
 			regionppp[key] = (100*byregion[key]/this.data.population[key]);
 		}
 		regionppp = sortAssoc(regionppp)
-		var ppp = '<table><tr><th>Region<\/th><th class="center">Grant funding (pence/person)<\/th><th class="center">Population (2011)<\/th><\/tr>';
+		var ppp = '<table><tr><th rowspan="2">Region<\/th><th class="center" colspan="2">Grant funding<\/th><th rowspan="2" class="center">Population<br />(2011)<\/th><\/tr><tr><th class="center">&pound;<\/th><th class="center">pence/person<\/th><\/tr>';
 		var max = 0;
 		for(key in regionppp){
-			if(key && key != "International") ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+this.data.population[key]+'<\/td><\/tr>';
+			if(key && key != "International") ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+addCommas(byregion[key].toFixed(2))+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+addCommas(this.data.population[key])+'<\/td><\/tr>';
 			max = (regionppp[key] > max ? regionppp[key] : max);
 		}
 		ppp += '<\/table>';
@@ -220,7 +220,7 @@
 
 	// Create a title for a grant round
 	function makeTitle(title,total){
-		return '<h3>Round: '+title+' (&pound;'+total+')<\/h3>';
+		return '<h3>Round: '+title+' (&pound;'+addCommas(total)+')<\/h3>';
 	}
 
 	// Function to sort an associative array
@@ -234,7 +234,19 @@
 		return aOutput;
 	}
 
-	
+	// Add commas every 10^3
+	function addCommas(nStr) {
+		nStr += '';
+		var x = nStr.split('.');
+		var x1 = x[0];
+		var x2 = x.length > 1 ? '.' + x[1] : '';
+		var rgx = /(\d+)(\d{3})/;
+		while (rgx.test(x1)) {
+			x1 = x1.replace(rgx, '$1' + ',' + '$2');
+		}
+		return x1 + x2;
+	}
+
 	$(document).ready(function () {
 
 		grants = new STFCSmallAward({'json':"smallawards.json"});
