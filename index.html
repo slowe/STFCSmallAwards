@@ -81,7 +81,7 @@
 		// Display message about next round if it is in the future
 		this.nextround = new Date("2014-10-09T16:00:00+0100");
 		var now = new Date();
-		if(this.nextround > now) $('#main p').append(' The deadline for the next Small Award funding round is at '+this.nextround.toLocaleString()+'. You can <a href="https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx">apply online<\/a>?');
+		if(this.nextround > now) $('#main p').append(' The deadline for the next Small Award funding round is at '+this.nextround.toLocaleString()+'. You can <a href="https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx">apply online<\/a>.');
 
 		return this;
 	}
@@ -101,7 +101,7 @@
 				this.processData(data);
 			}
 		});
-	
+		return this;
 	}
 
 	// Main function called once the data are loaded
@@ -212,7 +212,6 @@
 		this.makeSlider();
 		
 		return this;
-
 	}
 
 	STFCSmallAward.prototype.makeSlider = function(){
