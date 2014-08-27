@@ -66,11 +66,15 @@
 	<script type="text/javascript">
 
 	// Main function
-	function STFCSmallAward(){
+	function STFCSmallAward(inp){
 	
+		if(!inp) inp = {};
+		this.url = (typeof inp.json=="string" ? inp.json : "smallawards.json");
 		this.years = [1999,2014];
+		this.madeslider = false;
+		
+		this.loadData(this.url);
 		return this;
-
 	}
 	
 	// Load data from JSON
@@ -82,7 +86,7 @@
 			dataType: 'json',
 			context: this,
 			error: function(){
-				this.message("Oh no! We couldn't load the data.");
+				this.message("Oh no! We couldn't load the data for this page. Things will look bleak.",10000);
 			},
 			success: function(data){
 				this.processData(data);
@@ -101,7 +105,6 @@
 	
 	// Main function called once the data are loaded
 	STFCSmallAward.prototype.processData = function(data){
-
 		if(data){
 			this.data = data;
 			this.updateRange(this.years);
@@ -120,7 +123,6 @@
 	}
 
 	STFCSmallAward.prototype.buildOutput = function(){
-	
 		var list = '';
 		var item = '';
 		var round = '';
@@ -207,12 +209,11 @@
 			max: this.years[1],
 			values: this.years,
 			slide: function( event, ui ) {
-				$( "#years" ).val( "" + ui.values[0] + " - " + ui.values[1] );
+				$("#years").val(""+ui.values[0]+" - "+ui.values[1]);
 				_obj.updateRange(ui.values);
 			}
 		});
-		$( "#range" ).val( "" + $( "#slider-range" ).slider( "values", 0 ) +
-			" - " + $( "#slider-range" ).slider( "values", 1 ) );
+		$("#years").val(""+this.years[0]+" - "+this.years[1]);
 		this.madeslider = true;
 		return this;
 	}
@@ -236,8 +237,7 @@
 	
 	$(document).ready(function () {
 
-		grants = new STFCSmallAward();
-		grants.loadData("smallawards.json");
+		grants = new STFCSmallAward({'json':"smallawards.json"});
 
 	});
 
@@ -252,7 +252,7 @@
 		<p>The <a href="http://www.stfc.ac.uk/">STFC</a> Public Engagement Small Awards Scheme provides funds for small, local or 'pilot' projects promoting STFC science and technology. Anyone can apply, including grant-funded research groups, STFC research facility users, schools, museums, etc. This page provides a breakdown of <a href="http://www.stfc.ac.uk/1838.aspx">STFC Small Award grants</a> awarded between 1999 and 2014. The data have been extracted from PDFs released by STFC. The regions have been determined by the location of the grant holder (not always the region where the money is going to be spent). The <a href="https://github.com/slowe/STFCSmallAwards">code and data for this are on GitHub</a> so please contribute additions/issues there.</p>
 
 		<div id="ranger">
-			<label for="range">Year range:</label>
+			<label for="years">Year range:</label>
 			<input type="text" id="years" readonly>
 			<div id="slider-range"></div>
 		</div>
