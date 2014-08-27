@@ -104,7 +104,7 @@
 
 		if(data){
 			this.data = data;
-			this.updateRange([1999,2014]);
+			this.updateRange(this.years);
 		}
 		return this;
 	}
@@ -208,8 +208,6 @@
 			values: this.years,
 			slide: function( event, ui ) {
 				$( "#years" ).val( "" + ui.values[0] + " - " + ui.values[1] );
-			},
-			change: function( event, ui ) {
 				_obj.updateRange(ui.values);
 			}
 		});
