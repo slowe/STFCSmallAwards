@@ -20,6 +20,7 @@
 		float: right;
 		margin-left: 1em;
 	}
+	a { text-decoration: none; }
 	#message {
 		text-align: center;
 		padding: 1em;
@@ -30,6 +31,7 @@
 		color: #f6f6f6;
 		display: none;
 	}
+	#message a { color: #aad6ff; }
 	#main {
 		margin: 3em;
 		max-width: 1024px;
@@ -75,6 +77,12 @@
 		this.regions = {};
 		
 		this.loadData(this.url);
+		
+		// Display message about next round if it is in the future
+		this.nextround = new Date("2014-10-09T16:00:00+0100");
+		var now = new Date();
+		if(this.nextround > now) $('#main p').append(' The deadline for the next Small Award funding round is at '+this.nextround.toLocaleString()+'. You can <a href="https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx">apply online<\/a>?');
+
 		return this;
 	}
 	
