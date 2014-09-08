@@ -177,11 +177,9 @@ Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Wincheste
 2010A	5698	GCSE CERN@school	Langton Star Centre		South East
 2010A	8800	Super K sonic booooum	Queen Mary University London	London	London
 2010A	4000	CHaOS summer road show 2010	Cambridge Hands on Science	Cambridge	East of England
-2010A	4400	The Open University
-Making an impact phase 1	The Open University	Milton Keynes	South East
+2010A	4400	Making an impact phase 1	The Open University	Milton Keynes	South East
 2010A	5000	Galileo teacher training programme	Cardiff University	Cardiff	Wales
-2010A	3500	Las Cumbres Observatory Global Telescope Network
-Star in a box – an interactive exploration of the life of stars	LCOGT	Cardiff	Wales
+2010A	3500	Star in a box – an interactive exploration of the life of stars	LCOGT	Cardiff	Wales
 2010A	9894	Frontiers	Science Oxford	Oxford	South East
 2010A	7500	LHC sound: sonification of the ATLAS data output	University College London	London	London
 2010A	9700	Views of near and far: tayside meets the universe	Dundee Science Centre	Dundee	Scotland
