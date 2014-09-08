@@ -127,8 +127,7 @@ Round	Amount	Title	Organization	Location	Region
 2011B	4758	Mars	Techniquest	Cardiff	Wales
 2011B	5000	Guerilla Science 2012	University of Cambridge	Cambridge	East of England
 2011B	3250	Astronomy Playing Cards	University of Oxford	Oxford	South East
-2011B	8000	INTECH
-Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Winchester	South East
+2011B	8000	Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Winchester	South East
 2011B	6400	Cosmic Balloons	University of Bristol	Bristol	South West
 2011B	10000	Mars Mission Control @your School	RAL Space	Didcot	South East
 
@@ -143,11 +142,11 @@ Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Wincheste
 2011A	6420	Funding of 'Search for a Star' live show	University of Oxford	Oxford	South East
 2011A	10000	From Space Dust to Us	Techniquest	Cardiff	Wales
 2011A	3000	Eyes on Pocket Spacecraft	Las Cumbres Observatory Global Telescope Network	Cardiff	Wales
-2011A	1000	Thornbury Science Festival	Thornbury Science Festival Committee	South West
+2011A	1000	Thornbury Science Festival	Thornbury Science Festival Committee	Thornbury	South West
 2011A	4600	DJ Physics	Royal Institution of Great Britain	London	London
 2011A	6000	Astronomy in the Park - Landscape and Skyscape	Nottingham Trent University	Nottingham	East Midlands
 2011A	2000	Bright Club: Wonders	University College London	London	London
-2011A	7500	Astronomy Connections: Strengthening Public and Schools Engagement with hands on observing	University of Oxford	South East
+2011A	7500	Astronomy Connections: Strengthening Public and Schools Engagement with hands on observing	University of Oxford	Oxford	South East
 2011A	9940	Capture Space	Glasgow Science Centre	Glasgow	Scotland
 2011A	6850	An Exoplanetarium for Schools	Keele University	Newcastle-under-Lyme	West Midlands
 2011A	3000	Girls Allowed! Why women should study physics	Brunel University	Uxbridge	London
@@ -233,7 +232,7 @@ Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Wincheste
 2008A	4200	“Spark Chambers detecting cosmic rays from outer space”	University of Birmingham	Birmingham	West Midlands
 2008A	1190	“Particle Physics Talks”	Queen Mary, University of London	London	London
 2008A	1500	“Project Helios”	Stretford Grammar School	Manchester	North West
-2008A	1700	“Rosetta on the Road (follow – on, Spring 2008)”	Open University	Milton Keynes South East
+2008A	1700	“Rosetta on the Road (follow – on, Spring 2008)”	Open University	Milton Keynes	South East
 2008A	4240	“Seeing the Universe in high definition”	Cardiff University	Cardiff	Wales
 2008A	9500	“Media Space”	The Ideas Foundation	London	London
 2008A	3600	“Facilitating Astronomy Communication and Education in the UK (FACE UK)”	Cardiff University	Cardiff	Wales
@@ -252,7 +251,7 @@ Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Wincheste
 2007A	15000	Creating a dedicated Vega Science Trust website for Scitech science	The Vega Science Trust	Brighton	South East
 2007A	3800	Space Watch	The SHARE Initiative	Hereford	West Midlands
 2007A	6000	The Jodcast	The University of Manchester	Manchester	North West
-2007A	14870	IHY –Frontier Science through Arts	The Share Initiative	
+2007A	14870	IHY –Frontier Science through Arts	The Share Initiative		West Midlands
 2007A	5027	Welcome to Wales – Space Sciences cartoon exhibition	The Open University	Milton Keynes	South East
 2007A	11851.40	Astronomy to a Captive Audience	Cardiff University	Cardiff	Wales
 2007A	4500	Sun|trek - the Next Generation	University of Cambridge Department of Applied Mathematics and Theoretical Physics	Cambridge	East of England
@@ -310,7 +309,7 @@ Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Wincheste
 2005B	2687	THE SKY IS NO LIMIT! NATIONAL SCIENCE WEEK 2006	University College London	London	London
 2005B	7000	CPD FOR TEACHERS IN RURAL AREAS OF SOUTH/WEST WALES	Techniquest	Cardiff	Wales
 2005B	10000	BRINGING MARS TO LIFE: PUBLIC ENGAGEMENT WITH CURRENT ASTROBIOLOGICAL RESEARCH	Museum of Science & Industry	Manchester	North West
-2005B	10000	PARTICLE PHYSICS EXHIBITION AT NATIONAL EISTEDDFOD OF WALES	Pontyclun	Wales
+2005B	10000	PARTICLE PHYSICS EXHIBITION AT NATIONAL EISTEDDFOD OF WALES		Pontyclun	Wales
 2005B	8000	CHELTENHAM SCIENCE FESTIVAL	Cheltenham Science Festival	Cheltenham	South West
 2005B	1200	ESTABLISHMENT OF AN ANNUAL ROCKET DAY AT WEST MONMOUTH SCHOOL	West Monmouth School	Pontypool	Wales
 
@@ -367,8 +366,7 @@ Mission Control, Exploring the Frontiers of Modern Astrophysics	INTECH	Wincheste
 2004A	850	RHOSGOCH COUNTY PRIMARY SCHOOL SPACE DAY	Individual	Nr Builth Wells	Wales
 2004A	7750	YEAR 7 SPACE UNLEASHED A MAKEOVER FROM SCIENCE UPD8	Sheffield Hallam University	Sheffield	Yorkshire and the Humber
 2004A	5350	ASTRONOMY IN THE CLASSROOM: SCHOOL AND OBSERVATORY VISITS FOR KS2, KS3 AND KS4	University of London Observatory	London	London
-2004A	5400	ASTRONOMY FOR ALL: A PILOT PROJECT TO BRING TELESCOPES INTO SCHOOLS AND
-SCHOOL STUDENTS TO TELESCOPES	University of Oxford	Oxford	South East
+2004A	5400	ASTRONOMY FOR ALL: A PILOT PROJECT TO BRING TELESCOPES INTO SCHOOLS AND SCHOOL STUDENTS TO TELESCOPES	University of Oxford	Oxford	South East
 2004A	2000	WEEKEND IN SPACE DEVELOPING SPACE SCHOOL AWARD	University of Kent at Canterbury	Canterbury	South East
 2004A	7000	PLANETS IN THE CLASSROOM	Natural History Museum	London	London
 2004A	7000	STIMULATING PUBLIC UNDERSTANDING OF GAMMA-RAY BURST SCIENCE WITH SWIFT	National Space Centre	Leicester	East Midlands
