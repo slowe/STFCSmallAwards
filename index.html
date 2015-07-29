@@ -125,7 +125,7 @@
 		this.awards = [];
 		this.years = years;
 		for(var i = 0; i < this.data.awards.length; i++){
-			this.regions[this.data.awards[i].region] = true;
+			for(var j = 0; j < this.data.awards[i].region.length; j++) this.regions[this.data.awards[i].region[j]] = true;
 			if(this.data.awards[i].year >= this.years[0] && this.data.awards[i].year <= this.years[1]) this.awards.push(this.data.awards[i]);
 		}
 		this.buildOutput()
@@ -145,11 +145,19 @@
 				item = '';
 				total = 0;
 			}
-			item += '<li><span class="amount">&pound;'+this.awards[i].amount+'<\/span> <span class="title">'+this.awards[i].title+'<\/span> ('+this.awards[i].org+'), <span class=\"city\">'+this.awards[i].location+'<\/span>, <span class=\"region\">'+this.awards[i].region+'<\/span> [<a href="'+this.awards[i].source+'">source<\/a>]<\/li>';
+			item += '<li><span class="amount">&pound;'+this.awards[i].amount+'<\/span> <span class="title">'+this.awards[i].title+'<\/span> ('+this.awards[i].org+'), <span class=\"city\">'+this.awards[i].location+'<\/span>, ';
+			for(var j = 0; j < this.awards[i].region.length; j++){
+				if(j > 0) item += '/'
+				item += '<span class=\"region\">'+this.awards[i].region[j]+'<\/span>';
+			}
+			item += ' [<a href="'+this.awards[i].source+'">source<\/a>]<\/li>';
 			total += this.awards[i].amount;
 			round = this.awards[i].round;
 
-			byregion[this.awards[i].region] = byregion[this.awards[i].region]+this.awards[i].amount || this.awards[i].amount;
+			// An award can be split between regions so divide it equally between them
+			for(var j = 0; j < this.awards[i].region.length; j++){
+				byregion[this.awards[i].region[j]] = byregion[this.awards[i].region[j]]+(this.awards[i].amount/this.awards[i].region.length) || (this.awards[i].amount/this.awards[i].region.length);
+			}
 		}
 		list += (list=="" ? '' : '<\/ol>')+makeTitle(this.awards[i-1].round,total)+'<ol>'+item+'<\/ol>';
 

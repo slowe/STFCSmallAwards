@@ -76,7 +76,14 @@ foreach $line (@lines){
 			if($i > 1){
 				$json_awards .= ",\n";
 			}
-			$json_awards .= "\t\t{ \"year\": $year, \"round\": \"$r\", \"amount\": $amount, \"title\": \"$title\", \"org\": \"$org\", \"location\": \"$location\", \"region\": \"$region\", \"source\": \"$source{$r}\" }";
+			$json_awards .= "\t\t{ \"year\": $year, \"round\": \"$r\", \"amount\": $amount, \"title\": \"$title\", \"org\": \"$org\", \"location\": \"$location\", \"region\": [";
+			(@regions) = split(/\;/,$region);
+			for($j=0; $j < @regions; $j++){
+				if($j > 0){ $json_awards .= ","; }
+				$json_awards .= "\"$regions[$j]\"";
+			}
+			#$json_awards .= "\"$region\"";
+			$json_awards .= "], \"source\": \"$source{$r}\" }";
 		}
 	}
 }

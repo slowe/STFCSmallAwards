@@ -1,4 +1,5 @@
 Sources
+2014B	http://www.stfc.ac.uk/files/small-awards-2014b/
 2014A	http://www.stfc.ac.uk/files/1838/1838_res_1.pdf
 2013B	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013B.pdf
 2013A	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013A.pdf
@@ -45,6 +46,18 @@ Scotland	5327700
 Northern Ireland	1810863
 
 Round	Amount	Title	Organization	Location	Region
+2014B	9998	Measuring the effects of Space Weather in the UK using a network of school magnetometers	NERC British Geological Survey	Nottingham	East Midlands
+2014B	10000	Organised Chaos - inspiring the next generation of scientists and engineers by working scientifically with experts	University of Manchester	Manchester	North West
+2014B	7400	How to handle a radioactive nucleus: ISOLDE 50th anniversary robot competition	University of Manchester	Manchester	North West
+2014B	7117	Pilot for The Elusive Ms Higgs: a detective fiction of elementary truths	Brunel University	London	London
+2014B	8434	Bringing small solar system bodies into the classroom - A Rosetta teacher conference in Kent	University of Kent	Kent	South East
+2014B	9775	Science on Stage - Illuminating Science Education Festival 2015	Queen Mary, University of London	London	South East
+2014B	9500	Rosetta Digital Outreach Project	National Maritime Museum	London	London
+2014B	9330	Discovering Northern Dark Skies	North Pennines AONB Partnership	North Pennines	North East;North West
+2014B	9780	Bringing research to life: Recreating a 3D stone Archaeopteryx fossil as a digital interactive; where cutting edge science can be released through touch	Manchester Museum	Manchester	North West
+2014B	9993	A Broad Spectrum of Light: Celebrations for IYL2015	The Observatory Science Centre	Herstmonceux	South East
+2014B	10000	X Rays, Crystals and Dinosaurs - Exhibition at the National Eisteddfod of Wales 2015	National Eisteddfod of Wales	Montgomeryshire and the Marches	Wales
+
 2014A	3000	CHaOS Summer Roadshow 2014	Cambridge Hands On Science (CHaOS)	Cambridge	East of England
 2014A	5000	Classroom Hangouts with Spacelink Experts: to extend and develop outreach and communication between the space science and the education communities	Spacelink Learning Foundation	Guilford	South East
 2014A	8996	Lego Rovers Evolution	University of Liverpool	Liverpool	North West
