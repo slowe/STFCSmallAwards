@@ -138,6 +138,7 @@
 		var round = '';
 		var total = 0;
 		var byregion = {};
+		var full = 0;
 
 		for(var i = 0; i < this.awards.length; i++){
 			if(round && round != this.awards[i].round){
@@ -152,6 +153,7 @@
 			}
 			item += ' [<a href="'+this.awards[i].source+'">source<\/a>]<\/li>';
 			total += this.awards[i].amount;
+			full += this.awards[i].amount;
 			round = this.awards[i].round;
 
 			// An award can be split between regions so divide it equally between them
@@ -170,14 +172,17 @@
 		var ppp = '<table><tr><th rowspan="2">Region<\/th><th class="center" colspan="2">Grant funding<\/th><th rowspan="2" class="center">Population<br />(2011)<\/th><\/tr><tr><th class="center">Total &pound;<\/th><th class="center">pence/person/yr<\/th><\/tr>';
 		var max = 0;
 		var v,pop;
+		var popt = 0;
 		for(key in regionppp){
 			if(key && key != "International"){
 				v = byregion[key] || 0;
 				pop = this.data.population[key] || 0;
-				ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+addCommas(v.toFixed(2))+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+addCommas(pop)+'<\/td><\/tr>';
+				popt += pop;
+				ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+addCommas(Math.round(v))+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+addCommas(pop)+'<\/td><\/tr>';
 				max = (regionppp[key] > max ? regionppp[key] : max);
 			}
 		}
+		ppp += '<tr class="national"><td>United Kingdom<\/td><td class="center">'+addCommas(Math.round(full))+'<\/td><td class="center">'+((100*full/popt)/(this.years[1]-this.years[0]+1)).toFixed(2)+'<\/td><td class="center">'+addCommas(popt)+'<\/td><\/tr>';
 		ppp += '<\/table>';
 
 		$('#regional').html(ppp);
