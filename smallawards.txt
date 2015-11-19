@@ -1,4 +1,5 @@
 Sources
+2015A	http://www.stfc.ac.uk/files/smallawards2015a/
 2014B	http://www.stfc.ac.uk/files/small-awards-2014b/
 2014A	http://www.stfc.ac.uk/files/1838/1838_res_1.pdf
 2013B	http://www.stfc.ac.uk/resources/pdf/PE%20Small%20Awards%20Winners%202013B.pdf
@@ -46,6 +47,20 @@ Scotland	5327700
 Northern Ireland	1810863
 
 Round	Amount	Title	Organization	Location	Region
+2015A	6870	Project to train and equip senior high school pupils as Science Engagement Leaders for local primary schools	Robert Gordon's College	Aberdeen	Scotland
+2015A	9481	Think Universe! Fundamental Science master classes for school teachers at KS2 and KS3	University College London	London	London
+2015A	2242	Science Hands - Exploring antimatter with audible pendulums for school kids	University of Manchester	Manchester	North West
+2015A	10000	Investigating Natural Sciences in Wild Ennerdale: building an Education Hub at Low Gillerthwaite Field Centre	Low Gillerthwaite Field Centre	Cleator	North West
+2015A	9805	Exploring Light and Dark; Community Engagement in Collaboration with the Beacon Museum, Whitehaven	University of Central Lancashire	Whitehaven	North West
+2015A	9988	The Merry Wives of Munnar	Flickering Ltd	London	London
+2015A	4712	Travel Through a Solar Storm: An immersive virtual reality experience	University of Dundee	Dundee	Scotland
+2015A	9500	Barnaby Festival 2016: Space Science Strand	Macclesfield Barnaby Festival	Macclesfield	North West
+2015A	7110	Astronomy in the Departure Lounge: Supernova Science at Southampton Airport	University of Southampton	Southampton	South East
+2015A	9948	Twinkle Twinkle little star. Let's find out how far you are	Sphere Science Ltd	Luton	East of England
+2015A	9995	KS3 Physics Workshop	Techniquest	Cardiff	Wales
+2015A	10000	LHComedy: UK - The creation of a sustainable interactive comedy show that guides the audience through the scientific methodology	University of Oxford	South East
+2015A	9736	Chaos Cabaret Competition - Southwest Pilot	UWE	Bristol	South West
+
 2014B	9998	Measuring the effects of Space Weather in the UK using a network of school magnetometers	NERC British Geological Survey	Nottingham	East Midlands
 2014B	10000	Organised Chaos - inspiring the next generation of scientists and engineers by working scientifically with experts	University of Manchester	Manchester	North West
 2014B	7400	How to handle a radioactive nucleus: ISOLDE 50th anniversary robot competition	University of Manchester	Manchester	North West
