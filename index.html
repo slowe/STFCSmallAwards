@@ -174,11 +174,14 @@
 		var v,pop;
 		var popt = 0;
 		for(key in regionppp){
+			if(key && key != "International") max = (regionppp[key] > max ? regionppp[key] : max);
+		}
+		for(key in regionppp){
 			if(key && key != "International"){
 				v = byregion[key] || 0;
 				pop = this.data.population[key] || 0;
 				popt += pop;
-				ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+addCommas(Math.round(v))+'<\/td><td class="center">'+regionppp[key].toFixed(2)+'<\/td><td class="center">'+addCommas(pop)+'<\/td><\/tr>';
+				ppp += '<tr class="'+key.split(' ').join('')+'"><td>'+key+'<\/td><td class="center">'+addCommas(Math.round(v))+'<\/td><td class="center2"><span style="display: inline-block;">'+regionppp[key].toFixed(2)+'</span><div style="display:inline-block;margin-bottom:-2px;margin-left: 4px;background-color:red;width:'+(80*regionppp[key]/max)+'px;height:1em;"></div><\/td><td class="center">'+addCommas(pop)+'<\/td><\/tr>';
 				max = (regionppp[key] > max ? regionppp[key] : max);
 			}
 		}
